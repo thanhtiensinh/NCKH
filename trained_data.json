@@ -1,0 +1,2796 @@
+{
+    "câu hỏi": [
+        {
+            "Bạn": "Chỉ tiêu tuyển sinh năm 2024 của HPU là bao nhiêu?",
+            "HPU": "Chỉ tiêu hệ đại học là 651.  Quản trị kinh doanh (210 chỉ tiêu), Công nghệ thông tin (71 chỉ tiêu)"
+        },
+        {
+            "Bạn": "HPU có bao nhiêu khoa và chuyên ngành?",
+            "HPU": "HPU có 7 khoa và 19 chuyên ngành như CNTT, Kỹ thuật môi trường, QTKD, Ngôn ngữ Anh, v.v."
+        },
+        {
+            "Bạn": "Trường có bao nhiêu khoa - ngành",
+            "HPU": "7 khoa gồm: công nghệ thông tin, Công nghệ kỹ thuật điện, điện tử, Kỹ thuật môi trường, Quản trị kinh doanh, Ngôn ngữ Anh, Việt Nam học, Ngôn ngữ Trung"
+        },
+        {
+            "Bạn": "Trường có những chuyên ngành nào",
+            "HPU": "14 chuyên ngành: Công nghệ phần mềm, Quản trị và an ninh mạng, Công nghệ IoT, Điện tử - Truyền thông, Điện tự động công nghiệp, Kỹ thuật môi trường và An toàn lao động, Quản lý tài nguyên và môi trường nước, Quản lý tài nguyên đất đai, Quản trị doanh nghiệp, Kế toán - Kiểm toán, Quản trị Marketing, Quản trị Logistics và chuỗi cung ứng, Ngôn ngữ Anh, Văn hóa Du lịch, Quản trị Du lịch."
+        },
+        {
+            "Bạn": "khoa công nghệ thông tin có bao nhiêu chuyên ngành",
+            "HPU": " 2 chuyên ngành chính: Công nghệ phần mềm và Quản trị an ninh mạng."
+        },
+        {
+            "Bạn": "khoa kỹ thuật điện có bao nhiêu chuyên ngành",
+            "HPU": " 3 chuyên ngành chính: Công nghệ internet vạn vật (IoT), Điện tử - Truyền thông và Điện tự động công nghiệp."
+        },
+        {
+            "Bạn": "khoa Việt nam học có bao nhiêu chuyên ngành",
+            "HPU": " 2 chuyên ngành chính: Văn hóa du lịch và Quản trị du lịch."
+        },
+        {
+            "Bạn": "Trường có đông sinh viên không",
+            "HPU": "Có, khoảng hơn 900 sinh viên."
+        },
+        {
+            "Bạn": "khoa quản trị kinh doanh có bao nhiêu chuyên ngành",
+            "HPU": " 5 chuyên ngành chính: Quản trị (Logictic và chuỗi cung ứng), Quản trị doanh nghiệp, Kế toán - kiểm toán, Quản trị Marketing, Khai thác cảng hàng không."
+        },
+        {
+            "Bạn": "khoa kỹ thuật môi trường có bao nhiêu chuyên ngành",
+            "HPU": " 3 chuyên ngành chính: Kỹ thuật môi trường và an toàn lao động, Quản lý tài nguyên môi trường nước, Quản lý tài nguyên đất đai."
+        },
+        {
+            "Bạn": "khoa ngôn ngữ anh có bao nhiêu chuyên ngành",
+            "HPU": " 3 chuyên ngành chính: Ngôn ngữ Anh, Ngôn ngữ Anh - Trung, Ngôn ngữ Anh - Hàn."
+        },
+        {
+            "Bạn": "khoa ngôn ngữ trung có bao nhiêu chuyên ngành",
+            "HPU": " 1 chuyên ngành chính: Ngôn ngữ Trung."
+        },
+        {
+            "Bạn": "Học phí tại HPU là bao nhiêu?",
+            "HPU": "Học phí áp dụng cho năm học 2025-2026 là 618.000 đồng/1 tín chỉ."
+        },
+        {
+            "Bạn": "HPU có những loại học bổng nào?",
+            "HPU": "Học bổng Tự hào HPU, Học bổng Tài năng HPU, Học bổng Hữu nghị. Mức cao nhất là 60 triệu đồng. Ngoài ra còn có Học bổng tuyển sinh HPU mức 25% học phí toàn khóa học."
+        },
+        {
+            "Bạn": "Điều kiện nhận học bổng Tự hào HPU là gì?",
+            "HPU": "Đối tượng trúng tuyển nguyện vọng 1, điểm trung bình xét tuyển ≥ 7.5 hoặc có thành tích xuất sắc."
+        },
+        {
+            "Bạn": "HPU có phương thức tuyển sinh nào?",
+            "HPU": "3 phương thức: Xét điểm thi THPT, xét học bạ, kết hợp điểm thi với chứng chỉ quốc tế. Năm 2025, HPU xét tuyển theo kết quả kỳ thi tốt nghiệp THPT và kết quả học tập cả năm lớp 12."
+        },
+        {
+            "Bạn": "Ký túc xá HPU có giá bao nhiêu?",
+            "HPU": "Phòng tiêu chuẩn: 450.000đ/tháng/người; Phòng có điều hòa: 600.000đ/tháng/người (chưa tính điện nước). Sinh viên trường được giảm 50% giá phòng, đối tượng chính sách được giảm 100%. Ký túc xá có điều hòa, nước nóng lạnh, giường, bàn học, giá sách, tiêu chuẩn 4 người/phòng ."
+        },
+        {
+            "Bạn": "Thời gian đào tạo tại HPU là bao lâu?",
+            "HPU": "Thời gian học là 3.5 năm."
+        },
+        {
+            "Bạn": "Ngành mới tại HPU năm 2025 là gì?",
+            "HPU": "Ngành ngôn ngữ Trung"
+        },
+        {
+            "Bạn": "Cơ hội việc làm sau tốt nghiệp của HPU như thế nào?",
+            "HPU": "Sinh viên có việc làm tại các doanh nghiệp, tập đoàn trong và ngoài nước. Tỷ lệ có việc làm đạt 94.6% sau một năm tốt nghiệp."
+        },
+        {
+            "Bạn": "Làm thế nào để liên hệ tuyển sinh HPU?",
+            "HPU": "Hotline và Zalo tuyển sinh: 0901 598 698 - 0936 821 821."
+        },
+        {
+            "Bạn": "Sinh viên có được miễn giảm học phí không?",
+            "HPU": "Sinh viên khó khăn có thể được hỗ trợ học bổng Hữu nghị (2.5-5 triệu đồng/học kỳ). Sinh viên diện chính sách, khó khăn hoặc thuộc diện hộ nghèo có thể được hỗ trợ học bổng hoặc miễn giảm học phí ."
+        },
+        {
+            "Bạn": "HPU có những ngành nào nổi bật trong Cách mạng Công nghiệp 4.0?",
+            "HPU": "Các ngành nổi bật như Công nghệ Thông tin, Công nghệ Kỹ thuật Điện - Điện tử, Quản trị Kinh doanh (Logistics)."
+        },
+        {
+            "Bạn": "Trường có bể bơi không",
+            "HPU": "Có"
+        },
+        {
+            "Bạn": "Sinh viên có phải trả phí khi sử dụng bể bơi và sân vận động không?",
+            "HPU": "Không phải trả phí khi sử dụng trong thời khóa biểu học tập; ngoài giờ học thì có thu phí. "
+        },
+        {
+            "Bạn": "Trường có hỗ trợ việc làm thêm không?",
+            "HPU": "Có, HPU giới thiệu việc làm thêm part-time phù hợp ngành học thông qua kênh việc làm của trường."
+        },
+        {
+            "Bạn": "Các hình thức tuyển sinh tại HPU là gì?",
+            "HPU": "Xét kết quả thi tốt nghiệp THPT, xét học bạ THPT, kết hợp điểm thi với chứng chỉ quốc tế. Năm 2025, có 2 phương thức xét tuyển chính: xét tuyển theo kết quả kỳ thi tốt nghiệp THPT (Phương thức 100) và xét tuyển theo kết quả học tập cả năm lớp 12 (Phương thức 200)."
+        },
+        {
+            "Bạn": "Thành tích nổi bật của HPU trong đào tạo là gì?",
+            "HPU": "Tỷ lệ sinh viên có việc làm sau tốt nghiệp đạt 96.4%. Chương trình học ứng dụng, kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ tại HPU có những chuyên ngành nào?",
+            "HPU": "Ngôn ngữ Anh, Ngôn ngữ Anh - Trung, Ngôn ngữ Anh - Hàn, Ngôn ngữ Anh - Nhật."
+        },
+        {
+            "Bạn": "Trường có tổ chức các hoạt động ngoại khóa không?",
+            "HPU": "Trường tổ chức các hoạt động ngoại khóa, bao gồm văn nghệ, thể thao, câu lạc bộ."
+        },
+        {
+            "Bạn": "Trường có ngành Kỹ thuật Môi trường không?",
+            "HPU": "Có, với các chuyên ngành như: Kỹ thuật môi trường và an toàn lao động, Quản lý tài nguyên nước và đất. Năm 2025 có thêm chuyên ngành Quản lý tài nguyên đất đai."
+        },
+        {
+            "Bạn": "Thời gian nhận hồ sơ xét tuyển của HPU là khi nào?",
+            "HPU": "Đợt 1 (dự kiến): Từ 1/4/2025 - 30/7/2025. Nhập học (dự kiến): 22/8 - 27/8/2025."
+        },
+        {
+            "Bạn": "Trường có gì khác biệt so với các trường khác?",
+            "HPU": "Thời gian học ngắn (3.5 năm), đào tạo ứng dụng, kết nối doanh nghiệp từ sớm, cơ sở vật chất hiện đại."
+        },
+        {
+            "Bạn": "Trường có hỗ trợ sinh viên quốc tế không?",
+            "HPU": "Có, với chương trình giảng dạy quốc tế, ký túc xá tiêu chuẩn, và các câu lạc bộ dành cho sinh viên quốc tế."
+        },
+        {
+            "Bạn": "Trường có ngành Việt Nam học không?",
+            "HPU": "Có, với chuyên ngành Văn hóa Du lịch và Quản trị Du lịch."
+        },
+        {
+            "Bạn": "Trường có ngành marketing không",
+            "HPU": "Có"
+        },
+        {
+            "Bạn": "Lịch học tại HPU có linh động không?",
+            "HPU": "Lịch học linh động, cho phép sinh viên cân bằng giữa học tập và làm thêm."
+        },
+        {
+            "Bạn": "Trường có những chính sách hỗ trợ sinh viên nghèo không?",
+            "HPU": "Sinh viên nghèo được xét học bổng Hữu nghị, giảm từ 2.5-5 triệu đồng/học kỳ nếu đạt kết quả học tập tốt."
+        },
+        {
+            "Bạn": "Điều kiện xét tuyển học bạ vào HPU là gì?",
+            "HPU": "Tổng điểm 3 môn xét tuyển của học kỳ 1 hoặc 2 lớp 12 từ 15 điểm trở lên và hạnh kiểm đạt loại Khá trở lên. Năm 2025, điều kiện xét tuyển học bạ (Phương thức 200) là tốt nghiệp THPT và điểm trung bình 3 môn xét tuyển ≥ 6,0."
+        },
+        {
+            "Bạn": "Trường có xét tuyển bằng chứng chỉ quốc tế không?",
+            "HPU": "Có. HPU xét tuyển kết hợp điểm thi tốt nghiệp THPT với chứng chỉ quốc tế. Tổng điểm đạt từ 15 điểm trở lên."
+        },
+        {
+            "Bạn": "Sinh viên HPU có được tham gia trao đổi quốc tế không?",
+            "HPU": "Có, HPU hợp tác với các trường quốc tế, cung cấp cơ hội trao đổi sinh viên và học bổng du học."
+        },
+        {
+            "Bạn": "Ký túc xá của HPU có tiện nghi gì?",
+            "HPU": "Phòng có điều hòa, nước nóng lạnh, giường, bàn học, giá sách, tiêu chuẩn 4 người/phòng ."
+        },
+        {
+            "Bạn": "Các ngành đào tạo tại HPU có cơ hội việc làm ra sao?",
+            "HPU": "Sinh viên có cơ hội làm việc tại doanh nghiệp lớn, tập đoàn quốc tế trong lĩnh vực học tập . Tỷ lệ sinh viên có việc làm sau tốt nghiệp đạt 94.6%."
+        },
+        {
+            "Bạn": "Trường có hỗ trợ sinh viên tìm nơi thực tập không?",
+            "HPU": "Có, trường hỗ trợ tìm nơi thực tập phù hợp thông qua các doanh nghiệp đối tác của trường . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Sinh viên ngành CNTT của HPU làm việc ở đâu sau khi tốt nghiệp?",
+            "HPU": "Sinh viên có thể làm tại các công ty phần mềm, công ty viễn thông, ngân hàng, hoặc trở thành lập trình viên, quản trị hệ thống . Có cơ hội thực tập ở các công ty công nghệ trong và ngoài nước như FPT, Samsung, và các công ty khởi nghiệp ."
+        },
+        {
+            "Bạn": "Trường có tổ chức ngày hội việc làm không?",
+            "HPU": "Có, ngày hội việc làm được tổ chức hàng năm, kết nối sinh viên với doanh nghiệp và tập đoàn lớn ."
+        },
+        {
+            "Bạn": "Trường có ngành Quản trị Marketing không?",
+            "HPU": "Có, thuộc ngành Quản trị Kinh doanh. Sinh viên được đào tạo chuyên sâu về chiến lược marketing và kỹ năng số. Năm 2025 là chuyên ngành Quản trị Marketing thuộc ngành Quản trị kinh doanh."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học của HPU có thể làm gì sau khi tốt nghiệp?",
+            "HPU": "Làm hướng dẫn viên du lịch, quản lý nhà hàng/khách sạn, chuyên viên tại các cơ quan quản lý du lịch ."
+        },
+        {
+            "Bạn": "Trường có trung tâm ngoại ngữ không?",
+            "HPU": "Không có"
+        },
+        {
+            "Bạn": "Sinh viên có thể tham gia câu lạc bộ nào tại HPU?",
+            "HPU": "CLB Truyền thông, CLB Múa HPU, CLB Nhảy"
+        },
+        {
+            "Bạn": "Trường có hỗ trợ khởi nghiệp cho sinh viên không?",
+            "HPU": "Có, trường tổ chức các chương trình hỗ trợ sinh viên khởi nghiệp, kết nối với doanh nghiệp và nhà đầu tư . HPU có Trung tâm hỗ trợ khởi nghiệp - Đổi mới sáng tạo."
+        },
+        {
+            "Bạn": "Học ngành Quản trị Kinh doanh tại HPU có lợi thế gì?",
+            "HPU": "Sinh viên được đào tạo toàn diện về quản lý, kinh doanh, marketing và logistics. Tỷ lệ việc làm cao ."
+        },
+        {
+            "Bạn": "Trườn có đào tạo thạc sĩ không?",
+            "HPU": "Có, trường cung cấp các chương trình thạc sĩ phù hợp với nhiều lĩnh vực, đặc biệt là kinh tế và công nghệ ."
+        },
+        {
+            "Bạn": "Sinh viên có được phép học song ngành tại HPU không?",
+            "HPU": "Có, sinh viên có thể học song ngành nếu đáp ứng điều kiện học tập và thời gian ."
+        },
+        {
+            "Bạn": "Trường có ngành nào liên quan đến môi trường không?",
+            "HPU": "Có, ngành Kỹ thuật Môi trường với các chuyên ngành như Quản lý tài nguyên nước, đất và an toàn lao động. Năm 2025 có thêm chuyên ngành Quản lý tài nguyên đất đai."
+        },
+        {
+            "Bạn": "Trường có đào tạo ngành Logistics không?",
+            "HPU": "Có, chuyên ngành Logistics và chuỗi cung ứng thuộc ngành Quản trị Kinh doanh. Năm 2025 là chuyên ngành Quản trị Logistics và chuỗi cung ứng."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh của HPU có thể làm gì sau khi tốt nghiệp?",
+            "HPU": "Làm giáo viên, biên-phiên dịch, nhân viên đối ngoại, hoặc làm việc tại các công ty nước ngoài ."
+        },
+        {
+            "Bạn": "Trường có tổ chức hoạt động xã hội không?",
+            "HPU": "Có, Đoàn trường thường xuyên tổ chức các chương trình tình nguyện, hiến máu nhân đạo, và các hoạt động vì cộng đồng."
+        },
+        {
+            "Bạn": "Trường có chương trình đào tạo từ xa không?",
+            "HPU": "Không có"
+        },
+        {
+            "Bạn": "Trường có chính sách hỗ trợ học phí nào khác không?",
+            "HPU": "Sinh viên diện chính sách, khó khăn hoặc thuộc diện hộ nghèo có thể được hỗ trợ học bổng hoặc miễn giảm học phí ."
+        },
+        {
+            "Bạn": "Trường có chương trình liên kết quốc tế nào không?",
+            "HPU": "Có, HPU liên kết với các trường đại học quốc tế để cung cấp cơ hội trao đổi, học tập và thực tập ở nước ngoài ."
+        },
+        {
+            "Bạn": "Làm thế nào để đăng ký học bổng tại HPU?",
+            "HPU": "Sinh viên cần hoàn thiện hồ sơ, điền phiếu đăng ký học bổng và nộp đầy đủ minh chứng theo yêu cầu của nhà trường . Có thể đăng ký học bổng tuyển sinh HPU trực tuyến trước ngày 31/5 hàng năm."
+        },
+        {
+            "Bạn": "Trường có ngành Điện - Điện tử không?",
+            "HPU": "Có, ngành Công nghệ Kỹ thuật Điện - Điện tử với các chuyên ngành như IoT, Điện tử - Truyền thông. Năm 2025 có 3 chuyên ngành: Công nghệ Internet vạn vật - IoT, Điện tử - Truyền thông, Điện tự động công nghiệp."
+        },
+        {
+            "Bạn": "Sinh viên HPU có thể làm việc tại nước ngoài không?",
+            "HPU": "Có, sinh viên có kỹ năng và kiến thức đáp ứng yêu cầu tuyển dụng của các công ty quốc tế ."
+        },
+        {
+            "Bạn": "Cơ sở vật chất trường có tốt không",
+            "HPU": "Ký túc xá hiện đại, sân vận động, bể bơi, phòng học đầy đủ tiện nghi với điều hòa, TV, bảng phooc, và mạng Wi-Fi miễn phí ."
+        },
+        {
+            "Bạn": "Trường có tổ chức thi thử hoặc tư vấn hướng nghiệp không?",
+            "HPU": "Có, trường tổ chức các buổi thi thử, hội thảo hướng nghiệp và tư vấn cho học sinh trước mùa tuyển sinh ."
+        },
+        {
+            "Bạn": "Lịch học tại HPU có phù hợp với sinh viên vừa học vừa làm không?",
+            "HPU": "Có, trường sắp xếp lịch học linh động, hỗ trợ sinh viên cân bằng học tập và làm việc ."
+        },
+        {
+            "Bạn": "Trường  có các hoạt động ngoại khóa nào dành cho tân sinh viên?",
+            "HPU": "HPU tổ chức các buổi giao lưu, team building, định hướng nghề nghiệp và lễ chào đón tân sinh viên."
+        },
+        {
+            "Bạn": "Trường  có chính sách ưu tiên cho sinh viên giỏi không?",
+            "HPU": "Sinh viên giỏi được xét học bổng Tài năng HPU và được hỗ trợ tham gia các chương trình trao đổi quốc tế ."
+        },
+        {
+            "Bạn": "Ngành Công nghệ Thông tin tại HPU có ưu điểm gì?",
+            "HPU": "Sinh viên được đào tạo chuyên sâu về lập trình, AI, dữ liệu lớn và an ninh mạng, với cơ hội việc làm rộng mở . Năm 2025 có 2 chuyên ngành: Công nghệ phần mềm và Quản trị an ninh mạng."
+        },
+        {
+            "Bạn": "Trường có tổ chức hội thảo chuyên ngành không?",
+            "HPU": "Có, trường thường xuyên tổ chức các hội thảo chuyên ngành với sự tham gia của chuyên gia và doanh nghiệp ."
+        },
+        {
+            "Bạn": "Trường có chính sách hỗ trợ sinh viên khuyết tật không?",
+            "HPU": "Có, trường hỗ trợ học bổng và cơ sở vật chất phù hợp cho sinh viên khuyết tật ."
+        },
+        {
+            "Bạn": "Trường  có hỗ trợ sinh viên tham gia nghiên cứu khoa học không?",
+            "HPU": "Có, sinh viên được khuyến khích và hỗ trợ tham gia các đề tài nghiên cứu khoa học và cuộc thi học thuật ."
+        },
+        {
+            "Bạn": "Sinh viên HPU có thể tham gia các giải thể thao nào?",
+            "HPU": "Sinh viên có thể tham gia các giải bóng đá, bóng chuyền, cầu lông, bơi lội do trường tổ chức hoặc liên trường. HPU tổ chức HPU SPORT FEST."
+        },
+        {
+            "Bạn": "Trường  có tổ chức lớp học kỹ năng mềm không?",
+            "HPU": "Có, trường thường xuyên tổ chức các lớp kỹ năng mềm như giao tiếp, thuyết trình, làm việc nhóm ."
+        },
+        {
+            "Bạn": "Trường có các chương trình đào tạo ngắn hạn không?",
+            "HPU": "Có, trường cung cấp các khóa học ngắn hạn về ngoại ngữ, tin học, và kỹ năng nghề nghiệp ."
+        },
+        {
+            "Bạn": "Thời gian nhập học tại HPU thường diễn ra khi nào?",
+            "HPU": "Nhập học đợt 1 thường diễn ra từ 22/8 đến 27/8 hàng năm."
+        },
+        {
+            "Bạn": "Trường có chính sách gì cho sinh viên chuyển trường?",
+            "HPU": "Sinh viên chuyển trường được hỗ trợ thủ tục và xem xét công nhận tín chỉ theo quy định của Bộ Giáo dục ."
+        },
+        {
+            "Bạn": "Làm thế nào để cập nhật thông tin tuyển sinh của HPU?",
+            "HPU": "Sinh viên có thể theo dõi trên website chính thức (http://hpu.edu.vn) hoặc gọi hotline tuyển sinh: 0901 598 698 - 0936 821 821. Thông tin cũng được cập nhật trên Fanpage: Đại học Quản lý và Công nghệ Hải Phòng và Tiktok: HPU Official."
+        },
+        {
+            "Bạn": "Trường  có tổ chức các chương trình tư vấn tuyển sinh trực tuyến không?",
+            "HPU": "Có, trường tổ chức các buổi livestream và tư vấn trực tuyến trên Facebook và website chính thức."
+        },
+        {
+            "Bạn": "Trường  có hỗ trợ sinh viên lập kế hoạch học tập không?",
+            "HPU": "Có, giảng viên và cố vấn học tập hỗ trợ sinh viên lập kế hoạch học tập theo đúng tiến độ và mục tiêu cá nhân ."
+        },
+        {
+            "Bạn": "Ngành CNTT tại HPU có các chuyên ngành nào?",
+            "HPU": "Có 2 chuyên ngành: Công nghệ phần mềm và Quản trị an ninh mạng. "
+        },
+        {
+            "Bạn": "Sinh viên CNTT được tiếp cận công nghệ mới nào?",
+            "HPU": "Các công nghệ như AI, robot đều được giới thiệu trong quá trình học ."
+        },
+        {
+            "Bạn": "Trường có liên kết với doanh nghiệp công nghệ nào không?",
+            "HPU": "Có, HPU liên kết với FPT, VNPT, và các doanh nghiệp IT lớn để hỗ trợ thực tập và tuyển dụng ."
+        },
+        {
+            "Bạn": "Sinh viên CNTT có được hỗ trợ thi chứng chỉ quốc tế không?",
+            "HPU": "Có, sinh viên có thể thi các chứng chỉ như AWS, Azure, Cisco với hỗ trợ từ nhà trường ."
+        },
+        {
+            "Bạn": "Lập trình web có nằm trong chương trình CNTT không?",
+            "HPU": "Có, sinh viên sẽ học lập trình web, từ cơ bản đến nâng cao ."
+        },
+        {
+            "Bạn": "Chương trình CNTT có bao gồm học trực tuyến không?",
+            "HPU": "Có, HPU cung cấp các khóa học trực tuyến và tài liệu điện tử cho sinh viên ."
+        },
+        {
+            "Bạn": "Trường có đào tạo chuyên sâu về bảo mật không?",
+            "HPU": "Có, trong chuyên ngành Quản trị an ninh mạng, sinh viên học về bảo mật hệ thống và ứng dụng. Năm 2025 là chuyên ngành Quản trị và an ninh mạng."
+        },
+        {
+            "Bạn": "Sinh viên CNTT có cần làm đồ án nhóm không?",
+            "HPU": "Có, đồ án nhóm là một phần quan trọng trong chương trình học để phát triển kỹ năng làm việc nhóm ."
+        },
+        {
+            "Bạn": "Ngành CNTT có yêu cầu cao về tiếng Anh không?",
+            "HPU": "Có, sinh viên cần có khả năng đọc hiểu cơ bản tài liệu và giao tiếp bằng tiếng Anh chuyên ngành ."
+        },
+        {
+            "Bạn": "Trường  có tổ chức hackathon cho ngành CNTT không?",
+            "HPU": "Có, nếu bạn có nhu cầu có thể  đăng ký với nhà trường"
+        },
+        {
+            "Bạn": "Các phần mềm được học trong ngành CNTT tại HPU là gì?",
+            "HPU": "Sinh viên học các công cụ như Python, Java, SQL, và phần mềm quản trị mạng như Cisco Packet Tracer ."
+        },
+        {
+            "Bạn": "Trường  có đào tạo về thực tế ảo (AR/VR) không?",
+            "HPU": "Có, AR/VR được giới thiệu trong các môn học liên quan đến phát triển phần mềm ."
+        },
+        {
+            "Bạn": "Có thể học song song ngành CNTT và ngành khác không?",
+            "HPU": "Có, sinh viên có thể học thêm ngành khác nếu đáp ứng yêu cầu ."
+        },
+        {
+            "Bạn": "Sinh viên CNTT có cơ hội thực tập ở đâu?",
+            "HPU": "Các công ty công nghệ trong và ngoài nước, và các công ty khởi nghiệp ."
+        },
+        {
+            "Bạn": "Trường  có phòng thí nghiệm cho ngành CNTT không?",
+            "HPU": "Có, trường trang bị phòng máy tính hiện đại phục vụ thực hành ."
+        },
+        {
+            "Bạn": "Ngành CNTT tại HPU có đào tạo lập trình di động không?",
+            "HPU": "Có, sinh viên học lập trình ứng dụng trên các nền tảng Android và iOS ."
+        },
+        {
+            "Bạn": "Có môn học nào liên quan đến trí tuệ nhân tạo (AI) không?",
+            "HPU": "Có, AI là một phần trong chương trình đào tạo chuyên sâu của CNTT ."
+        },
+        {
+            "Bạn": "Ngành CNTT tại HPU có yêu cầu cao về toán không?",
+            "HPU": "Sinh viên cần nắm vững toán cơ bản, đặc biệt là xác suất và đại số tuyến tính ."
+        },
+        {
+            "Bạn": "Ngành CNTT có câu lạc bộ nào không ?",
+            "HPU": "Trường hiện chưa có clb liên quan đến CNTT"
+        },
+        {
+            "Bạn": "Ngành CNTT tại HPU có đào tạo phân tích dữ liệu không?",
+            "HPU": "Có, phân tích dữ liệu lớn (Big Data) được đào tạo trong chương trình chuyên ngành ."
+        },
+        {
+            "Bạn": "Chương trình QTKD tại HPU kéo dài bao lâu?",
+            "HPU": "Thời gian học là 3.5 năm."
+        },
+        {
+            "Bạn": "Chuyên ngành Marketing trong QTKD học gì?",
+            "HPU": "Sinh viên học chiến lược Marketing, Digital Marketing, và nghiên cứu thị trường . Năm 2025 là chuyên ngành Quản trị Marketing."
+        },
+        {
+            "Bạn": "Trường có tổ chức tham quan doanh nghiệp cho sinh viên QTKD không?",
+            "HPU": "Có, sinh viên thường được tham quan các doanh nghiệp lớn để học hỏi kinh nghiệm . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành QTKD tại HPU có đào tạo về khởi nghiệp không?",
+            "HPU": "Có, chương trình tích hợp các môn học về khởi nghiệp và đổi mới sáng tạo . HPU có Trung tâm hỗ trợ khởi nghiệp - Đổi mới sáng tạo."
+        },
+        {
+            "Bạn": "Chuyên ngành Logistics trong QTKD đào tạo những gì?",
+            "HPU": "Sinh viên học quản lý chuỗi cung ứng, xuất nhập khẩu, và quản lý kho bãi . Năm 2025 là chuyên ngành Quản trị Logistics và chuỗi cung ứng."
+        },
+        {
+            "Bạn": "Có bao nhiêu chuyên ngành trong ngành QTKD tại HPU?",
+            "HPU": "Có 5 chuyên ngành: Quản trị doanh nghiệp, Marketing, Logistics, Kế toán kiểm toán, và Khai thác cảng hàng không."
+        },
+        {
+            "Bạn": "Sinh viên QTKD có cần thực tập bắt buộc không?",
+            "HPU": "Có, thực tập tại doanh nghiệp là bắt buộc để hoàn thành chương trình học . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành QTKD có yêu cầu kỹ năng giao tiếp tốt không?",
+            "HPU": "Có, kỹ năng giao tiếp là yếu tố quan trọng trong học tập và nghề nghiệp QTKD ."
+        },
+        {
+            "Bạn": "HPU có hỗ trợ sinh viên QTKD tìm nơi thực tập không?",
+            "HPU": "Có, nhà trường liên kết với nhiều doanh nghiệp để hỗ trợ thực tập . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Các môn học chính trong ngành QTKD là gì?",
+            "HPU": "Gồm Quản trị chiến lược, Marketing, Kinh tế vi mô, Quản lý tài chính, và Quản trị nguồn nhân lực ."
+        },
+        {
+            "Bạn": "Sinh viên ngành QTKD tại HPU có thể làm việc ở đâu?",
+            "HPU": "Các doanh nghiệp trong nước và quốc tế, tập đoàn đa quốc gia, ngân hàng, và tổ chức phi chính phủ ."
+        },
+        {
+            "Bạn": "Ngành QTKD tại HPU có yêu cầu nhiều kỹ năng làm việc nhóm không?",
+            "HPU": "Có, làm việc nhóm là kỹ năng được ưu tiên trong chương trình học ."
+        },
+        {
+            "Bạn": "Chuyên ngành Kế toán kiểm toán có gì đặc biệt?",
+            "HPU": "Đào tạo chuyên sâu về lập báo cáo tài chính, kiểm toán, và quản lý tài chính doanh nghiệp . Năm 2025 là chuyên ngành Kế toán - kiểm toán."
+        },
+        {
+            "Bạn": "Sinh viên QTKD có thể tham gia các cuộc thi nào?",
+            "HPU": "Các cuộc thi như Khởi nghiệp, Quản lý doanh nghiệp, và Marketing sáng tạo ."
+        },
+        {
+            "Bạn": "HPU có các môn học nào liên quan đến quản lý chuỗi cung ứng không?",
+            "HPU": "Có, các môn như Quản lý Logistics, Vận tải, và Kế hoạch chuỗi cung ứng ."
+        },
+        {
+            "Bạn": "Ngành QTKD tại HPU có cơ hội tham gia chương trình trao đổi không?",
+            "HPU": "Có, sinh viên có thể tham gia các chương trình trao đổi quốc tế của trường ."
+        },
+        {
+            "Bạn": "HPU có mời các doanh nhân thành công về giảng dạy không?",
+            "HPU": "Có, nhiều doanh nhân được mời tham gia giảng dạy và chia sẻ kinh nghiệm thực tế ."
+        },
+        {
+            "Bạn": "Sinh viên ngành QTKD có được tham gia các hội thảo quốc tế không?",
+            "HPU": "Có, trường thường tổ chức hoặc kết nối sinh viên với các hội thảo quốc tế ."
+        },
+        {
+            "Bạn": "HPU có tổ chức các khóa học ngắn hạn cho ngành QTKD không?",
+            "HPU": "Có, các khóa học về kỹ năng mềm, đàm phán, và phân tích thị trường được tổ chức thường xuyên ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh tại HPU có những chuyên ngành nào?",
+            "HPU": "Có 4 chuyên ngành: Ngôn ngữ Anh, Ngôn ngữ Anh - Trung, Ngôn ngữ Anh - Hàn, và Ngôn ngữ Anh - Nhật."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh có cần đạt trình độ tiếng Anh trước khi vào học không?",
+            "HPU": "Không yêu cầu trình độ ban đầu, Sinh viên sẽ học từ cơ bản đến nâng cao ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh tại HPU đào tạo kỹ năng gì?",
+            "HPU": "Đào tạo 4 kỹ năng chính: nghe, nói, đọc, viết, và các kỹ năng biên-phiên dịch ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh có chương trình liên kết quốc tế không?",
+            "HPU": "Có, sinh viên có thể tham gia chương trình trao đổi với các trường đại học quốc tế ."
+        },
+        {
+            "Bạn": "Sinh viên có thể làm gì sau khi tốt nghiệp ngành Ngôn ngữ Anh?",
+            "HPU": "Làm giáo viên, biên-phiên dịch, nhân viên đối ngoại, hoặc làm việc tại các công ty nước ngoài ."
+        },
+        {
+            "Bạn": "HPU có câu lạc bộ nào dành cho sinh viên ngành Ngôn ngữ Anh không?",
+            "HPU": "Hiện chưa có clb nào cho ngành ngôn ngữ"
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh tại HPU có giảng viên quốc tế không?",
+            "HPU": "Có, trường mời giảng viên nước ngoài tham gia giảng dạy và giao lưu ."
+        },
+        {
+            "Bạn": "Sinh viên có được học văn hóa các nước không?",
+            "HPU": "Có, chương trình tích hợp các môn học về văn hóa Anh, Trung, Hàn, và Nhật ."
+        },
+        {
+            "Bạn": "HPU có tổ chức thi thử IELTS hoặc TOEFL không?",
+            "HPU": "Có, trường tổ chức các kỳ thi thử IELTS và TOEFL để chuẩn bị cho sinh viên thi thật ."
+        },
+        {
+            "Bạn": "Có môn học nào liên quan đến biên-phiên dịch không?",
+            "HPU": "Có, sinh viên học các môn về biên-phiên dịch chuyên ngành và thương mại ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh có cần thực tập không?",
+            "HPU": "Có, sinh viên sẽ thực tập tại các công ty hoặc tổ chức quốc tế ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh tại HPU có các học phần về tiếng Anh thương mại không?",
+            "HPU": "Có, sinh viên được đào tạo tiếng Anh chuyên ngành thương mại, kinh tế, và quản trị ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh có thể tham gia kỳ thi chứng chỉ quốc tế nào?",
+            "HPU": "Sinh viên có thể thi IELTS, TOEIC, hoặc các chứng chỉ khác do nhà trường hỗ trợ ."
+        },
+        {
+            "Bạn": "HPU có tổ chức các buổi giao lưu văn hóa không?",
+            "HPU": "Có, trường tổ chức nhiều buổi giao lưu với sinh viên quốc tế ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh có môn học nào liên quan đến dịch thuật không?",
+            "HPU": "Có, sinh viên học kỹ năng dịch thuật trong các tình huống thực tế ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh có được học ngoại ngữ thứ hai không?",
+            "HPU": "Có, sinh viên có thể chọn thêm tiếng Nhật, Hàn, hoặc Trung ."
+        },
+        {
+            "Bạn": "HPU có tổ chức thi hùng biện bằng tiếng Anh không?",
+            "HPU": "Có, trường tổ chức các cuộc thi hùng biện tiếng Anh để rèn luyện kỹ năng ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Ngôn ngữ Anh có thể làm việc ở đâu?",
+            "HPU": "Làm việc tại các đại sứ quán, công ty nước ngoài, trung tâm ngoại ngữ, hoặc tổ chức quốc tế ."
+        },
+        {
+            "Bạn": "Ngành Ngôn ngữ Anh có môn học nào về giao tiếp quốc tế không?",
+            "HPU": "Có, sinh viên học về giao tiếp trong môi trường đa văn hóa và hội nhập ."
+        },
+        {
+            "Bạn": "HPU có hỗ trợ sinh viên ngành Ngôn ngữ Anh du học không?",
+            "HPU": "Có, trường hỗ trợ sinh viên đăng ký học bổng và chương trình du học ngắn hạn ."
+        },
+        {
+            "Bạn": "Ngành Kỹ thuật Môi trường tại HPU đào tạo chuyên sâu về gì?",
+            "HPU": "Đào tạo về quản lý tài nguyên nước, đất, và an toàn lao động. Năm 2025 có các chuyên ngành: Kỹ thuật môi trường và An toàn lao động, Quản lý tài nguyên và môi trường nước, Quản lý tài nguyên đất đai."
+        },
+        {
+            "Bạn": "Sinh viên ngành Kỹ thuật Môi trường có được thực hành tại các phòng thí nghiệm không?",
+            "HPU": "Có, trường trang bị đầy đủ phòng thí nghiệm hiện đại ."
+        },
+        {
+            "Bạn": "Ngành Kỹ thuật Môi trường có yêu cầu kiến thức về sinh học không?",
+            "HPU": "Có, sinh viên cần kiến thức về sinh học môi trường trong một số môn học ."
+        },
+        {
+            "Bạn": "Sau khi tốt nghiệp ngành Kỹ thuật Môi trường có thể làm ở đâu?",
+            "HPU": "Làm việc tại các cơ quan môi trường, doanh nghiệp nước sạch, công ty xử lý chất thải ."
+        },
+        {
+            "Bạn": "HPU có hợp tác với các tổ chức bảo vệ môi trường không?",
+            "HPU": "Có, trường hợp tác với các tổ chức như WWF và UNDP để nghiên cứu và thực tập ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có phải làm đồ án không?",
+            "HPU": "Có, đồ án là yêu cầu bắt buộc trong chương trình học ."
+        },
+        {
+            "Bạn": "Ngành Môi trường có môn học nào về quản lý chất thải không?",
+            "HPU": "Có, sinh viên học các môn về xử lý chất thải rắn, nước thải, và khí thải ."
+        },
+        {
+            "Bạn": "Ngành Kỹ thuật Môi trường có yêu cầu cao về thực hành không?",
+            "HPU": "Có, thực hành chiếm phần lớn trong chương trình học ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có được tham gia các dự án cộng đồng không?",
+            "HPU": "Có, HPU tổ chức nhiều dự án bảo vệ môi trường để sinh viên tham gia ."
+        },
+        {
+            "Bạn": "Ngành Môi trường tại HPU có đào tạo về năng lượng tái tạo không?",
+            "HPU": "Có, sinh viên học về năng lượng gió, mặt trời và các nguồn năng lượng bền vững khác ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có thể làm nghiên cứu không?",
+            "HPU": "Có, trường khuyến khích sinh viên tham gia nghiên cứu khoa học về môi trường ."
+        },
+        {
+            "Bạn": "Ngành Môi trường tại HPU có môn học nào về GIS và viễn thám không?",
+            "HPU": "Có, GIS và viễn thám là một phần trong chương trình học ."
+        },
+        {
+            "Bạn": "HPU có tổ chức hội thảo chuyên ngành Môi trường không?",
+            "HPU": "Có, trường thường xuyên tổ chức hội thảo với các chuyên gia môi trường ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có cơ hội làm việc quốc tế không?",
+            "HPU": "Có, đặc biệt tại các tổ chức phi chính phủ và công ty môi trường quốc tế ."
+        },
+        {
+            "Bạn": "HPU có tổ chức các khóa học ngắn hạn cho ngành Môi trường không?",
+            "HPU": "Có, như khóa học về đánh giá tác động môi trường và kỹ thuật xử lý chất thải ."
+        },
+        {
+            "Bạn": "Ngành Môi trường tại HPU có môn học nào liên quan đến biến đổi khí hậu không?",
+            "HPU": "Có, biến đổi khí hậu là một phần quan trọng trong chương trình đào tạo ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có cần tham gia thực địa không?",
+            "HPU": "Có, thực địa là yêu cầu bắt buộc trong một số môn học ."
+        },
+        {
+            "Bạn": "Ngành Môi trường tại HPU có đào tạo về quản lý tài nguyên không?",
+            "HPU": "Có, bao gồm tài nguyên nước, đất đai và đa dạng sinh học."
+        },
+        {
+            "Bạn": "Sinh viên ngành Môi trường có thể tham gia các cuộc thi nào?",
+            "HPU": "Các cuộc thi về ý tưởng bảo vệ môi trường, xử lý chất thải sáng tạo ."
+        },
+        {
+            "Bạn": "Ngành Môi trường tại HPU có đào tạo về quản lý rủi ro không?",
+            "HPU": "Có, sinh viên học cách quản lý rủi ro môi trường và ứng phó thiên tai ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử tại HPU có những chuyên ngành nào?",
+            "HPU": "Có 3 chuyên ngành: Công nghệ Internet vạn vật (IoT), Điện tử - Truyền thông, và Điện tự động công nghiệp."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử học gì về IoT?",
+            "HPU": "Sinh viên học về cảm biến, điều khiển thiết bị thông minh và mạng lưới IoT ."
+        },
+        {
+            "Bạn": "Chuyên ngành Điện tử - Truyền thông đào tạo gì?",
+            "HPU": "Đào tạo về thiết kế mạch, truyền thông kỹ thuật số và phát triển thiết bị viễn thông ."
+        },
+        {
+            "Bạn": "HPU có phòng thí nghiệm nào dành cho ngành Điện không?",
+            "HPU": "Có, trường trang bị phòng thực hành hiện đại với thiết bị tự động hóa và mạch điện ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử có được học về lập trình PLC không?",
+            "HPU": "Có, lập trình PLC là một phần quan trọng trong chuyên ngành Điện tự động công nghiệp ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử có đào tạo về năng lượng tái tạo không?",
+            "HPU": "Có, sinh viên học về năng lượng mặt trời, gió và các hệ thống tích hợp năng lượng sạch ."
+        },
+        {
+            "Bạn": "Sau khi tốt nghiệp ngành Điện - Điện tử làm việc ở đâu?",
+            "HPU": "Làm việc tại các nhà máy, công ty viễn thông, cơ quan năng lượng, hoặc công ty sản xuất thiết bị điện tử ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử có thể tham gia các cuộc thi nào?",
+            "HPU": "Các cuộc thi về thiết kế mạch điện, tự động hóa, và IoT ."
+        },
+        {
+            "Bạn": "Có môn học nào về an toàn điện không?",
+            "HPU": "Có, sinh viên được đào tạo về tiêu chuẩn an toàn và bảo vệ trong hệ thống điện ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử có yêu cầu kỹ năng lập trình không?",
+            "HPU": "Có, đặc biệt là lập trình vi điều khiển và hệ thống tự động hóa ."
+        },
+        {
+            "Bạn": "HPU có tổ chức thực tập tại nhà máy cho sinh viên ngành Điện - Điện tử không?",
+            "HPU": "Có, sinh viên được thực tập tại các nhà máy điện, công ty sản xuất và các tập đoàn viễn thông lớn . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Chương trình đào tạo ngành Điện - Điện tử có bao gồm thực hành không?",
+            "HPU": "Có, thực hành chiếm khoảng 50% chương trình học ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử tại HPU có liên kết quốc tế không?",
+            "HPU": "Có, HPU hợp tác với các tổ chức quốc tế để cập nhật công nghệ và hỗ trợ sinh viên thực tập ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử có được học về mạng lưới điện thông minh không?",
+            "HPU": "Có, đây là một phần trong chương trình học về tự động hóa và IoT ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử có yêu cầu kiến thức toán cao không?",
+            "HPU": "Có, sinh viên cần hiểu về đại số tuyến tính, lý thuyết mạch, và tín hiệu số ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử có thể làm nghiên cứu khoa học trong lĩnh vực nào?",
+            "HPU": "Nghiên cứu về hệ thống IoT, tự động hóa công nghiệp, và năng lượng sạch ."
+        },
+        {
+            "Bạn": "HPU có giảng viên chuyên gia trong ngành Điện không?",
+            "HPU": "Có, đội ngũ giảng viên gồm các chuyên gia giàu kinh nghiệm từ các doanh nghiệp và tổ chức lớn ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Điện - Điện tử có cần làm đồ án tốt nghiệp không?",
+            "HPU": "Có, đồ án là yêu cầu bắt buộc để tốt nghiệp ."
+        },
+        {
+            "Bạn": "Ngành Điện - Điện tử có hỗ trợ sinh viên làm việc quốc tế không?",
+            "HPU": "Có, sinh viên có thể làm việc tại các công ty đa quốc gia trong lĩnh vực điện tử và tự động hóa ."
+        },
+        {
+            "Bạn": "HPU có hỗ trợ sinh viên ngành Điện - Điện tử thi các chứng chỉ nghề nghiệp không?",
+            "HPU": "Có, sinh viên có thể thi các chứng chỉ về lập trình PLC và tự động hóa quốc tế ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học tại HPU đào tạo những chuyên ngành nào?",
+            "HPU": "Có 2 chuyên ngành: Văn hóa Du lịch và Quản trị Du lịch."
+        },
+        {
+            "Bạn": "Sinh viên học gì trong chuyên ngành Quản trị Du lịch?",
+            "HPU": "Học về điều hành tour, quản lý khách sạn, lập kế hoạch sự kiện và marketing du lịch ."
+        },
+        {
+            "Bạn": "Chuyên ngành Văn hóa Du lịch đào tạo gì?",
+            "HPU": "Sinh viên học về lịch sử, văn hóa, di sản Việt Nam và phát triển du lịch bền vững ."
+        },
+        {
+            "Bạn": "HPU có hợp tác với các doanh nghiệp du lịch không?",
+            "HPU": "Có, trường hợp tác với các công ty lữ hành, khách sạn và cơ quan quản lý du lịch . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có phải thực tập không?",
+            "HPU": "Có, thực tập là bắt buộc và diễn ra tại các công ty du lịch, khách sạn, hoặc khu di sản . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học tại HPU có tổ chức tham quan thực địa không?",
+            "HPU": "Có, sinh viên thường xuyên tham gia các chuyến thực địa đến các điểm du lịch nổi tiếng ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có thể làm việc ở đâu sau khi tốt nghiệp?",
+            "HPU": "Làm việc tại các công ty lữ hành, khách sạn, cơ quan quản lý du lịch, hoặc tổ chức phi chính phủ ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học tại HPU có môn học nào về ẩm thực Việt Nam không?",
+            "HPU": "Có, sinh viên học về văn hóa ẩm thực và cách khai thác giá trị ẩm thực trong du lịch ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học có đào tạo kỹ năng hướng dẫn viên không?",
+            "HPU": "Có, sinh viên học kỹ năng thuyết trình, giao tiếp và điều hành tour ."
+        },
+        {
+            "Bạn": "HPU có tổ chức các khóa học ngắn hạn về du lịch không?",
+            "HPU": "Có, các khóa học về điều hành tour và nghiệp vụ khách sạn ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học có đào tạo quản lý sự kiện không?",
+            "HPU": "Có, quản lý sự kiện là một phần trong chương trình học ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có thể tham gia các cuộc thi nào?",
+            "HPU": "Các cuộc thi hướng dẫn viên du lịch giỏi hoặc ý tưởng phát triển du lịch ."
+        },
+        {
+            "Bạn": "HPU có hỗ trợ sinh viên ngành Việt Nam học học thêm ngoại ngữ không?",
+            "HPU": "Có, sinh viên có thể học thêm tiếng Anh, Trung, Nhật, hoặc Hàn ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có thể tham gia các hoạt động ngoại khóa nào?",
+            "HPU": "Các hoạt động như hội thảo du lịch, giao lưu văn hóa và ngày hội nghề nghiệp."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học có yêu cầu sinh viên làm đồ án không?",
+            "HPU": "Có, sinh viên làm đồ án tốt nghiệp về các chủ đề liên quan đến văn hóa và du lịch ."
+        },
+        {
+            "Bạn": "HPU có liên kết với các tổ chức UNESCO không?",
+            "HPU": "Có, trường hợp tác để hỗ trợ sinh viên nghiên cứu về di sản văn hóa ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học tại HPU có môn học nào về bảo tồn di sản không?",
+            "HPU": "Có, bảo tồn và phát huy giá trị di sản là một nội dung quan trọng ."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có được học về phát triển du lịch bền vững không?",
+            "HPU": "Có, đây là một phần trong chương trình giảng dạy của ngành ."
+        },
+        {
+            "Bạn": "Ngành Việt Nam học có đào tạo về kỹ năng kinh doanh du lịch không?",
+            "HPU": "Có, sinh viên học cách lập kế hoạch và quản lý dự án kinh doanh du lịch . HPU có Trung tâm hỗ trợ khởi nghiệp - Đổi mới sáng tạo."
+        },
+        {
+            "Bạn": "Sinh viên ngành Việt Nam học có thể làm nghiên cứu khoa học không?",
+            "HPU": "Có, sinh viên được khuyến khích nghiên cứu về văn hóa, du lịch và phát triển cộng đồng ."
+        },
+        {
+            "Bạn": "Sinh viên chuyên ngành Anh - Nhật học gì?",
+            "HPU": "Học tiếng Nhật giao tiếp, thương mại và văn hóa Nhật Bản ."
+        },
+        {
+            "Bạn": "Chuyên ngành Anh - Trung tại HPU đào tạo gì?",
+            "HPU": "Học tiếng Trung thương mại, biên-phiên dịch và văn hóa Trung Quốc ."
+        },
+        {
+            "Bạn": "Ngành Anh - Hàn có những nội dung gì?",
+            "HPU": "Đào tạo tiếng Hàn giao tiếp, làm việc tại doanh nghiệp Hàn Quốc, và văn hóa Hàn Quốc ."
+        },
+        {
+            "Bạn": "Sinh viên chuyên ngành song ngữ có cần học cả hai ngôn ngữ không?",
+            "HPU": "Có, sinh viên học song song tiếng Anh và một ngoại ngữ khác (Nhật, Hàn, hoặc Trung) ."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có giảng viên bản ngữ không?",
+            "HPU": "Có, HPU mời các giảng viên bản ngữ từ Nhật Bản, Hàn Quốc, và Trung Quốc ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có thể thực tập ở đâu?",
+            "HPU": "Các công ty đa quốc gia, tổ chức phi chính phủ, và các doanh nghiệp nước ngoài tại Việt Nam . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có yêu cầu điểm đầu vào ngoại ngữ không?",
+            "HPU": "Không, nhưng sinh viên cần nỗ lực để đạt được trình độ cao trong hai ngoại ngữ ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có thể thi chứng chỉ quốc tế nào?",
+            "HPU": "IELTS, HSK (Trung Quốc), TOPIK (Hàn Quốc), và JLPT (Nhật Bản) ."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có tổ chức các chuyến giao lưu quốc tế không?",
+            "HPU": "Có, trường tổ chức các chuyến giao lưu với sinh viên Nhật Bản, Hàn Quốc, và Trung Quốc ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có được học về văn hóa và lịch sử không?",
+            "HPU": "Có, chương trình học tích hợp các môn văn hóa và lịch sử của từng quốc gia ."
+        },
+        {
+            "Bạn": "HPU có hỗ trợ sinh viên ngành song ngữ làm việc tại công ty nước ngoài không?",
+            "HPU": "Có, trường kết nối sinh viên với các doanh nghiệp nước ngoài và liên doanh . Chương trình học kết nối doanh nghiệp từ năm 1."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có yêu cầu kỹ năng giao tiếp không?",
+            "HPU": "Có, kỹ năng giao tiếp tốt là yếu tố quan trọng trong ngành song ngữ ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có thể làm việc ở đâu sau khi tốt nghiệp?",
+            "HPU": "Làm việc tại các đại sứ quán, công ty đa quốc gia, trung tâm ngoại ngữ, và tổ chức quốc tế ."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có đào tạo về dịch thuật không?",
+            "HPU": "Có, sinh viên học kỹ năng dịch thuật chuyên sâu ."
+        },
+        {
+            "Bạn": "Có khóa học ngắn hạn nào dành cho ngành song ngữ không?",
+            "HPU": "Có, như các khóa giao tiếp nhanh hoặc biên-phiên dịch thực hành ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có cần làm đồ án tốt nghiệp không?",
+            "HPU": "Có, đồ án tốt nghiệp là yêu cầu bắt buộc ."
+        },
+        {
+            "Bạn": "Ngành song ngữ tại HPU có chương trình liên kết quốc tế không?",
+            "HPU": "Có, HPU hợp tác với các trường đại học tại Nhật Bản, Hàn Quốc và Trung Quốc ."
+        },
+        {
+            "Bạn": "Trường có tổ chức thi hùng biện ngoại ngữ cho ngành song ngữ không?",
+            "HPU": "Có, sinh viên thường tham gia các cuộc thi hùng biện tiếng Anh, Nhật, Hàn, hoặc Trung ."
+        },
+        {
+            "Bạn": "Sinh viên ngành song ngữ có cơ hội học thêm ngôn ngữ khác không?",
+            "HPU": "Có, sinh viên có thể chọn thêm ngoại ngữ thứ ba ."
+        },
+        {
+            "Bạn": "Ngành song ngữ có đào tạo kỹ năng mềm không?",
+            "HPU": "Có, sinh viên được đào tạo kỹ năng thuyết trình, làm việc nhóm, và quản lý thời gian ."
+        },
+        {
+            "Bạn": "Mã trường của Đại học HPU là gì?",
+            "HPU": "HPU."
+        },
+        {
+            "Bạn": "Website chính thức của Đại học HPU là gì?",
+            "HPU": "http://hpu.edu.vn."
+        },
+        {
+            "Bạn": "Fanpage chính thức của Đại học HPU là gì?",
+            "HPU": "Đại học Quản lý và Công nghệ Hải Phòng."
+        },
+        {
+            "Bạn": "TikTok chính thức của Đại học HPU là gì?",
+            "HPU": "HPU Official và Đại học HPU"
+        },
+        {
+            "Bạn": "Địa chỉ của Đại học HPU là gì?",
+            "HPU": "Số 36, Đường Dân lập, Phường Dư Hàng Kênh, Quận Lê Chân, Tp. Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Đại học HPU là gì?",
+            "HPU": "02253 740 577."
+        },
+        {
+            "Bạn": "Thời gian làm việc của Đại học HPU là khi nào?",
+            "HPU": "07:30 - 17:00, Thứ 2 đến sáng Thứ 7."
+        },
+        {
+            "Bạn": "Đại học HPU tuyển sinh hệ đại học chính quy năm nào?",
+            "HPU": "2025."
+        },
+        {
+            "Bạn": "HPU dự kiến tuyển sinh ngành Ngôn ngữ nào mới vào năm 2025?",
+            "HPU": "Ngôn ngữ Trung Quốc."
+        },
+        {
+            "Bạn": "Phương thức xét tuyển theo kết quả kỳ thi tốt nghiệp THPT (Phương thức 100) của HPU năm 2025 có điều kiện gì?",
+            "HPU": "Tốt nghiệp THPT và điểm trung bình 3 môn xét tuyển ≥ 5,0."
+        },
+        {
+            "Bạn": "Phương thức xét tuyển theo kết quả học tập cả năm lớp 12 (Phương thức 200) của HPU năm 2025 có điều kiện gì?",
+            "HPU": "Tốt nghiệp THPT và điểm trung bình 3 môn xét tuyển ≥ 6,0."
+        },
+        {
+            "Bạn": "Học phí tín chỉ của HPU năm học 2025-2026 là bao nhiêu?",
+            "HPU": "618.000 đồng/1 tín chỉ."
+        },
+        {
+            "Bạn": "Học bổng tuyển sinh HPU năm 2025 có mức là bao nhiêu?",
+            "HPU": "25% học phí."
+        },
+        {
+            "Bạn": "Thời gian hưởng Học bổng tuyển sinh HPU là bao lâu?",
+            "HPU": "Toàn khóa học."
+        },
+        {
+            "Bạn": "Điều kiện để nhận Học bổng tuyển sinh HPU năm 2025 là gì?",
+            "HPU": "Có điểm học kỳ I lớp 12 các môn xét tuyển đạt trung bình từ 7,0 trở lên/môn; Có hạnh kiểm Tốt năm học lớp 12; Đã đăng ký Học bổng Tuyển sinh HPU trước ngày 31/5 hàng năm; Trúng tuyển và hoàn thành đầy đủ các thủ tục nhập học đợt 1 vào Trường."
+        },
+        {
+            "Bạn": "Ngoài Học bổng tuyển sinh, HPU còn những học bổng nào khác?",
+            "HPU": "Tự hào HPU, Tài năng HPU, học bổng Hữu Nghị và một số học bổng khác."
+        },
+        {
+            "Bạn": "Làm thế nào để đăng ký Học bổng và tư vấn tuyển sinh năm 2025 tại HPU?",
+            "HPU": "Đăng ký trực tuyến tại link: https://bit.ly/DKXT2025 hoặc gọi đến Điện thoại/Zalo: 0901.598.698 (Ms. Thuý) hoặc 0936.821.821 (Ms. Hiền). Hoặc nộp trực tiếp Bản sao học bạ THPT tại Phòng Tuyển sinh."
+        },
+        {
+            "Bạn": "Phòng Tuyển sinh - Hợp tác Quốc tế của HPU nằm ở đâu?",
+            "HPU": "Phòng A102 - Toà A, Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Email liên hệ của Phòng Tuyển sinh - Hợp tác Quốc tế HPU là gì?",
+            "HPU": "xettuyen@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Trưởng phòng Tuyển sinh - Hợp tác Quốc tế HPU là ai?",
+            "HPU": "TS. Trần Đức Nga."
+        },
+        {
+            "Bạn": "Phòng Đào tạo - Quản lý khoa học của HPU nằm ở đâu?",
+            "HPU": "Tòa G1 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Phòng Đào tạo - Quản lý khoa học HPU là gì?",
+            "HPU": "02253 740 577."
+        },
+        {
+            "Bạn": "Email liên hệ của Phòng Đào tạo - Quản lý khoa học HPU là gì?",
+            "HPU": "minhnt@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Trưởng phòng Đào tạo - Quản lý khoa học HPU là ai?",
+            "HPU": "TS. Nguyễn Trí Minh."
+        },
+        {
+            "Bạn": "Bộ phận Công tác Sinh viên của HPU nằm ở đâu?",
+            "HPU": "Phòng B204, Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Bộ phận Công tác Sinh viên HPU là gì?",
+            "HPU": "02253 886 088."
+        },
+        {
+            "Bạn": "Email liên hệ của Bộ phận Công tác Sinh viên HPU là gì?",
+            "HPU": "huyenptt@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Phó trưởng phòng Bộ phận Công tác Sinh viên HPU là ai?",
+            "HPU": "CN. Phạm Thị Thanh Huyền."
+        },
+        {
+            "Bạn": "Phòng Hành chính - Tổng hợp của HPU nằm ở đâu?",
+            "HPU": "Tòa G5 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Phòng Hành chính - Tổng hợp HPU là gì?",
+            "HPU": "0983 623 566."
+        },
+        {
+            "Bạn": "Email liên hệ của Phòng Hành chính - Tổng hợp HPU là gì?",
+            "HPU": "dongdh@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Trưởng phòng Hành chính - Tổng hợp HPU là ai?",
+            "HPU": "ThS. Đào Hữu Đồng."
+        },
+        {
+            "Bạn": "Bộ phận Nhân sự của HPU nằm ở đâu?",
+            "HPU": "Tòa G2 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Bộ phận Nhân sự HPU là gì?",
+            "HPU": "0936 411 829."
+        },
+        {
+            "Bạn": "Email liên hệ của Bộ phận Nhân sự HPU là gì?",
+            "HPU": "ngocltb@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Phó Trưởng phòng Bộ phận Nhân sự HPU là ai?",
+            "HPU": "CN. Lê Thị Bích Ngọc."
+        },
+        {
+            "Bạn": "Bộ phận Văn thư của HPU nằm ở đâu?",
+            "HPU": "Tòa G1 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Bộ phận Văn thư HPU là gì?",
+            "HPU": "02253 763 361."
+        },
+        {
+            "Bạn": "Email liên hệ của Bộ phận Văn thư HPU là gì?",
+            "HPU": "thanhdx@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Cán Bộ Văn thư HPU là ai?",
+            "HPU": "Cán Bộ Đặng Xuân Thành."
+        },
+        {
+            "Bạn": "Trung tâm Thông tin Thư viện của HPU nằm ở đâu?",
+            "HPU": "Tòa G4 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Trung tâm Thông tin Thư viện HPU là gì?",
+            "HPU": "0989 150 269."
+        },
+        {
+            "Bạn": "Email liên hệ của Trung tâm Thông tin Thư viện HPU là gì?",
+            "HPU": "trungth@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Giám đốc Trung tâm Thông tin Thư viện HPU là ai?",
+            "HPU": "ThS. Trần Hữu Trung."
+        },
+        {
+            "Bạn": "Đoàn Thanh niên - Hội Sinh viên của HPU nằm ở đâu?",
+            "HPU": "Phòng B204, Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Đoàn Thanh niên - Hội Sinh viên HPU là gì?",
+            "HPU": "0378 485 440."
+        },
+        {
+            "Bạn": "Email liên hệ của Đoàn Thanh niên - Hội Sinh viên HPU là gì?",
+            "HPU": "Oanhptk@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Bí Thư Đoàn Thanh niên - Hội Sinh viên HPU là ai?",
+            "HPU": "Phạm Thị Kim Oanh."
+        },
+        {
+            "Bạn": "Văn phòng Hiệu trưởng của HPU nằm ở đâu?",
+            "HPU": "Tòa G2 - Số 36, đường Dân lập, phường Dư Hàng Kênh, quận Lê Chân, thành phố Hải Phòng."
+        },
+        {
+            "Bạn": "Số điện thoại liên hệ của Văn phòng Hiệu trưởng HPU là gì?",
+            "HPU": "0347 69 69 67."
+        },
+        {
+            "Bạn": "Email liên hệ của Văn phòng Hiệu trưởng HPU là gì?",
+            "HPU": "thuyduongdn@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Thư ký Văn phòng Hiệu trưởng HPU là ai?",
+            "HPU": "ThS. Trần Thị Thùy Dương."
+        },
+        {
+            "Bạn": "Email của trường là gì?",
+            "HPU": "hpu@hpu.edu.vn."
+        },
+        {
+            "Bạn": "Học phí chương trình đào tạo cao học tại HPU là bao nhiêu?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU tính theo tín chỉ là bao nhiêu?",
+            "HPU": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tính theo bình quân tháng là bao nhiêu?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học đối với lớp có dưới 05 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức thu học lại, thi lại học phần thuộc chương trình cao học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu học lại, thi lại học phần thuộc chương trình đại học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu cải thiện điểm tại HPU là bao nhiêu?",
+            "HPU": "Mức thu cải thiện điểm là 95.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Phí phúc tra bài thi học phần và phải sửa điểm do lỗi của người chấm, ghép phách, nhập điểm tại HPU là bao nhiêu?",
+            "HPU": "Phí phúc tra bài thi học phần và phải sửa điểm do lỗi của người chấm, ghép phách, nhập điểm là Miễn phí."
+        },
+        {
+            "Bạn": "Phí phúc tra bài thi học phần và phải sửa điểm không do lỗi của người học tại HPU là bao nhiêu?",
+            "HPU": "Phí phúc tra bài thi học phần và phải sửa điểm không do lỗi của người học là 100.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Phí phúc tra kết quả thi tốt nghiệp đại học tại HPU là bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 VNĐ/lần."
+        },
+        {
+            "Bạn": "Phí phúc tra kết quả bảo vệ khóa luận tốt nghiệp đại học tại HPU là bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận tốt nghiệp đại học là 1.500.000 VNĐ/lần."
+        },
+        {
+            "Bạn": "Lệ phí xét tuyển và công nhận điểm học phần tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí xét tuyển và công nhận điểm học phần là 60.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Lệ phí bảo vệ đồ án tốt nghiệp đại học tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí bảo vệ đồ án tốt nghiệp đại học là 1.850.000 VNĐ/lần."
+        },
+        {
+            "Bạn": "Lệ phí bảo vệ đề tài tốt nghiệp thạc sĩ tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí bảo vệ đề tài tốt nghiệp thạc sĩ là 3.800.000 VNĐ/lần."
+        },
+        {
+            "Bạn": "Lệ phí cấp bằng tốt nghiệp cao học tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí cấp bằng tốt nghiệp cao học là 1.000.000 VNĐ/lần."
+        },
+        {
+            "Bạn": "Lệ phí cấp bằng tốt nghiệp đại học chính quy tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí cấp bằng tốt nghiệp đại học chính quy là 300.000 VNĐ/bản."
+        },
+        {
+            "Bạn": "Lệ phí cấp bản sao bằng tốt nghiệp tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí cấp bản sao bằng tốt nghiệp là 100.000 VNĐ/bản."
+        },
+        {
+            "Bạn": "Lệ phí cấp chứng nhận tốt nghiệp tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí cấp chứng nhận tốt nghiệp là 50.000 VNĐ/bản."
+        },
+        {
+            "Bạn": "Lệ phí cấp bảng điểm khóa học tại HPU là bao nhiêu?",
+            "HPU": "Lệ phí cấp bảng điểm khóa học là 50.000 VNĐ/bản."
+        },
+        {
+            "Bạn": "Phí xét tuyển khi thí sinh trúng tuyển chương trình đại học chính quy theo hình thức xét tuyển thẳng (bao gồm cả xét học bạ) tại HPU là bao nhiêu?",
+            "HPU": "Phí xét tuyển khi thí sinh trúng tuyển chương trình đại học chính quy theo hình thức xét tuyển thẳng là Theo quy định chung."
+        },
+        {
+            "Bạn": "Phí xét tuyển khi thí sinh trúng tuyển chương trình đại học chính quy theo hình thức liên thông tại HPU là bao nhiêu?",
+            "HPU": "Phí xét tuyển khi thí sinh trúng tuyển chương trình đại học chính quy theo hình thức liên thông là 200.000 VNĐ/hồ sơ."
+        },
+        {
+            "Bạn": "Phí xét tuyển khi thí sinh trúng tuyển hệ vừa học vừa làm tại HPU là bao nhiêu?",
+            "HPU": "Phí xét tuyển khi thí sinh trúng tuyển hệ vừa học vừa làm là 200.000 VNĐ/hồ sơ."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ sinh viên cao học tại HPU là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ sinh viên cao học là 300.000 VNĐ/học viên."
+        },
+        {
+            "Bạn": "Phí nhập học, khám sức khỏe và làm thẻ sinh viên đại học chính quy tại HPU là bao nhiêu?",
+            "HPU": "Phí nhập học, khám sức khỏe và làm thẻ sinh viên đại học chính quy là 300.000 VNĐ/sinh viên."
+        },
+        {
+            "Bạn": "Phí hướng dẫn sử dụng thư viện tại HPU là bao nhiêu?",
+            "HPU": "Phí hướng dẫn sử dụng thư viện là 150.000 VNĐ/sinh viên."
+        },
+        {
+            "Bạn": "Phí hỗ trợ bảo trì cơ sở vật chất, vệ sinh môi trường tại HPU là bao nhiêu?",
+            "HPU": "Phí hỗ trợ bảo trì cơ sở vật chất, vệ sinh môi trường là 200.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Tổ chức các hoạt động thể thao, văn hóa tại HPU có mức phí là bao nhiêu?",
+            "HPU": "Mức phí tổ chức các hoạt động thể thao, văn hóa là 50.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Các khoản thu hộ, chi hộ (BHYT, đồng phục, vv...) tại HPU được quy định như thế nào?",
+            "HPU": "Các khoản thu hộ, chi hộ (BHYT, đồng phục, vv...) được thực hiện theo thực tế từng nội dung."
+        },
+        {
+            "Bạn": "Tiền lưu trú tại ký túc xá đối với sinh viên đang học tại Trường (5 tháng/kỳ, 30 ngày/tháng), ở ngoài khu phòng ở tập trung (tối đa 4 người/phòng) là bao nhiêu?",
+            "HPU": "Tiền ở phòng không có điều hòa (tối đa 4 người/phòng) là 15.000 VNĐ/ngày/người và 60.000 VNĐ/tháng/người."
+        },
+        {
+            "Bạn": "Tiền lưu trú tại ký túc xá đối với sinh viên đang học tại Trường (5 tháng/kỳ, 30 ngày/tháng), ở khu phòng ở tập trung (tối đa 4 người/phòng) là bao nhiêu?",
+            "HPU": "Tiền ở có điều hòa (tối đa 4 người/phòng) là 20.000 VNĐ/ngày/người và 80.000 VNĐ/tháng/người."
+        },
+        {
+            "Bạn": "Tiền điện, nước đối với phòng ở không có điều hòa (quyết toán theo khối lượng thực tế sử dụng và giá quy định của công ty cung cấp điện, nước) tại ký túc xá HPU được tính như thế nào?",
+            "HPU": "Tiền điện, nước đối với phòng ở không có điều hòa được tính là 50.000 VNĐ/tháng/phòng và 200.000 VNĐ/tháng/phòng."
+        },
+        {
+            "Bạn": "Tiền điện, nước đối với phòng ở có điều hòa (quyết toán theo khối lượng thực tế sử dụng và giá quy định của công ty cung cấp điện, nước) tại ký túc xá HPU được tính như thế nào?",
+            "HPU": "Tiền điện, nước đối với phòng ở có điều hòa được tính là 120.000 VNĐ/tháng/phòng và 480.000 VNĐ/tháng/phòng."
+        },
+        {
+            "Bạn": "Đối tượng không phải sinh viên của Trường khi sử dụng các dịch vụ tại HPU có mức phí như thế nào?",
+            "HPU": "Mức phí dành cho đối tượng không phải sinh viên của Trường khi sử dụng các dịch vụ được thực hiện theo Thực hiện theo hợp đồng riêng."
+        },
+        {
+            "Bạn": "Học phí của chương trình đào tạo cao học tại HPU là bao nhiêu tiền?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Mức học phí chương trình đào tạo cao học tại HPU là?",
+            "HPU": "Mức học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đào tạo cao học tại HPU?",
+            "HPU": "Chi phí học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đào tạo sau đại học tại HPU là bao nhiêu?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí hệ cao học tại HPU là bao nhiêu?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Cho hỏi học phí chương trình đào tạo cao học tại HPU là bao nhiêu?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "HPU thu học phí chương trình đào tạo cao học là bao nhiêu?",
+            "HPU": "Học phí chương trình đào tạo cao học là 1.150.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU là bao nhiêu một tín chỉ?",
+            "HPU": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Mức học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU theo tín chỉ?",
+            "HPU": "Mức học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU theo đơn vị tín chỉ?",
+            "HPU": "Chi phí học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy (tổ chức trong giờ hành chính) tại HPU là bao nhiêu trên một tín chỉ?",
+            "HPU": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "HPU tính học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là bao nhiêu một tín chỉ?",
+            "HPU": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) ở HPU là bao nhiêu tiền một tín chỉ?",
+            "HPU": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) là 618.000 VNĐ/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU tính bình quân một tháng là bao nhiêu?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Mức học phí bình quân tháng chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU trung bình một tháng?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy (tổ chức trong giờ hành chính) tại HPU là bao nhiêu một tháng?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "HPU thu học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) bình quân tháng là bao nhiêu?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy (tổ chức trong giờ hành chính) tại HPU là bao nhiêu tiền một tháng?",
+            "HPU": "Học phí bình quân tháng cho chương trình đại học chính quy (tổ chức trong giờ hành chính) là 2.207.000 VNĐ/tháng."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học tại HPU đối với lớp có sĩ số từ 16 sinh viên trở lên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức học phí theo tiết học chương trình đại học chính quy tại HPU cho lớp trên 15 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy theo tiết tại HPU với lớp đông hơn 15 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy theo tiết tại HPU cho lớp từ 16 sinh viên trở lên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "HPU tính học phí chương trình đại học chính quy theo tiết cho lớp trên 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học ở HPU cho lớp có 16 sinh viên trở lên là bao nhiêu tiền một tiết?",
+            "HPU": "Học phí theo tiết học đối với lớp có sĩ số từ 16 sinh viên trở lên là 45.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học tại HPU đối với lớp có sĩ số từ 10 đến dưới 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức học phí theo tiết học chương trình đại học chính quy tại HPU cho lớp từ 10 đến dưới 15 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy theo tiết tại HPU với lớp 10 đến 14 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy theo tiết tại HPU cho lớp 10 đến dưới 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "HPU tính học phí chương trình đại học chính quy theo tiết cho lớp 10 đến dưới 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học ở HPU cho lớp có sĩ số 10 đến 14 sinh viên là bao nhiêu tiền một tiết?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 10 đến dưới 15 sinh viên là 75.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học tại HPU đối với lớp có sĩ số từ 05 đến dưới 09 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức học phí theo tiết học chương trình đại học chính quy tại HPU cho lớp 5 đến 8 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy theo tiết tại HPU với lớp 5 đến dưới 9 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy theo tiết tại HPU cho lớp 05 đến dưới 09 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "HPU tính học phí chương trình đại học chính quy theo tiết cho lớp 5 đến 8 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học ở HPU cho lớp có sĩ số 5 đến 8 sinh viên là bao nhiêu tiền một tiết?",
+            "HPU": "Học phí theo tiết học đối với lớp có từ 05 đến dưới 09 sinh viên là 150.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học tại HPU đối với lớp có dưới 05 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức học phí theo tiết học chương trình đại học chính quy tại HPU cho lớp ít hơn 5 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Chi phí học phí chương trình đại học chính quy theo tiết tại HPU với lớp dưới 5 sinh viên?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí hệ đại học chính quy theo tiết tại HPU cho lớp dưới 05 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "HPU tính học phí chương trình đại học chính quy theo tiết cho lớp dưới 5 sinh viên là bao nhiêu?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Học phí chương trình đại học chính quy theo tiết học ở HPU cho lớp có sĩ số dưới 5 sinh viên là bao nhiêu tiền một tiết?",
+            "HPU": "Học phí theo tiết học đối với lớp có dưới 05 sinh viên là 220.000 VNĐ/tiết."
+        },
+        {
+            "Bạn": "Mức thu học lại học phần thuộc chương trình cao học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Học phí học lại chương trình cao học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Chi phí học lại chương trình cao học tại HPU?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "HPU thu phí học lại cao học là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Học lại cao học ở HPU tốn bao nhiêu tiền?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu thi lại học phần thuộc chương trình cao học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Lệ phí thi lại chương trình cao học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Chi phí thi lại chương trình cao học tại HPU?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "HPU thu phí thi lại cao học là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Thi lại cao học ở HPU tốn bao nhiêu tiền?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình cao học là 150.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu học lại học phần thuộc chương trình đại học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Học phí học lại chương trình đại học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Chi phí học lại chương trình đại học tại HPU?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "HPU thu phí học lại đại học là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Học lại đại học ở HPU tốn bao nhiêu tiền?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu thi lại học phần thuộc chương trình đại học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Lệ phí thi lại chương trình đại học tại HPU là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Chi phí thi lại chương trình đại học tại HPU?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "HPU thu phí thi lại đại học là bao nhiêu?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Thi lại đại học ở HPU tốn bao nhiêu tiền?",
+            "HPU": "Mức thu học lại, thi lại học phần thuộc chương trình đại học là 75.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Mức thu cải thiện điểm ở HPU là bao nhiêu?",
+            "HPU": "Mức thu cải thiện điểm là 95.000 VNĐ/học phần."
+        },
+        {
+            "Bạn": "Tài liệu \"Hoc phi 1025.pdf\" nói về điều gì?",
+            "HPU": "Đây là Quyết định số 87.../QD-CTHĐT ngày 17/02/2025 về mức thu học phí và các khoản đóng góp khác của sinh viên từ năm học 2025-2026."
+        },
+        {
+            "Bạn": "Quyết định về học phí có hiệu lực từ khi nào?",
+            "HPU": "Quyết định có hiệu lực từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai ban hành quyết định về học phí của HPU?",
+            "HPU": "Chủ tịch Hội đồng Trường Đại học Quản lý và Công nghệ Hải Phòng ban hành quyết định."
+        },
+        {
+            "Bạn": "Ngày hiệu lực của chính sách học phí HPU là khi nào?",
+            "HPU": "Chính sách có hiệu lực từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Cơ sở pháp lý của quyết định học phí là gì?",
+            "HPU": "Dựa trên Luật Giáo dục đại học, Quyết định 641/QĐ-TTg (29/5/2019) và các quyết định của Hội đồng trường."
+        },
+        {
+            "Bạn": "Học phí chương trình cao học là bao nhiêu?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy tính theo tín chỉ là bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Học phí bình quân mỗi tháng cho sinh viên đại học là bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy."
+        },
+        {
+            "Bạn": "Học phí mỗi tiết cho lớp từ 16 sinh viên trở lên là bao nhiêu?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Học phí mỗi tiết cho lớp từ 10 đến 15 sinh viên là bao nhiêu?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "Học phí mỗi tiết cho lớp từ 5 đến 9 sinh viên là bao nhiêu?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên."
+        },
+        {
+            "Bạn": "Học phí mỗi tiết cho lớp dưới 5 sinh viên là bao nhiêu?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên."
+        },
+        {
+            "Bạn": "Học phí lớp học ngoài giờ hành chính được tính thế nào?",
+            "HPU": "Học phí ngoài giờ hành chính bằng 1,5 lần mức trong giờ hành chính (trừ lớp mục 1.3 từ 15 sinh viên trở lên)."
+        },
+        {
+            "Bạn": "Học phí mỗi tín chỉ cho chương trình đại học là bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Học phí mỗi tín chỉ cho chương trình cao học là bao nhiêu?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học."
+        },
+        {
+            "Bạn": "Phí thi lại học phần cao học là bao nhiêu?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phí thi lại học phần đại học là bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phí thi cải thiện điểm học phần là bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phí thi lại một môn cao học là bao nhiêu?",
+            "HPU": "Phí thi lại một môn cao học là 150.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phí thi lại một môn đại học là bao nhiêu?",
+            "HPU": "Phí thi lại một môn đại học là 75.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phí phúc tra điểm thi có lỗi của người chấm có mất phí không?",
+            "HPU": "Không, phúc tra điểm thi do lỗi của người chấm, ghép phách, nhập điểm là miễn phí."
+        },
+        {
+            "Bạn": "Phí phúc tra điểm thi không có lỗi hoặc lỗi của sinh viên là bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên."
+        },
+        {
+            "Bạn": "Phí phúc tra kết quả thi tốt nghiệp đại học là bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi."
+        },
+        {
+            "Bạn": "Phí phúc tra kết quả bảo vệ khóa luận tốt nghiệp là bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của trường có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí."
+        },
+        {
+            "Bạn": "Phí xét miễn học phần là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Phí công nhận một tín chỉ là bao nhiêu?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Phí miễn một tín chỉ tại HPU là bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Chi phí để xét miễn tín chỉ là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Phí công nhận tín chỉ học phần là bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phí tổ chức bảo vệ đề tài tốt nghiệp cao học là bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phí cấp bằng tốt nghiệp cao học là bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phí cấp bằng tốt nghiệp đại học là bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phí cấp bản sao bằng tốt nghiệp là bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản."
+        },
+        {
+            "Bạn": "Phí xử lý nhập học và làm thẻ học viên cao học là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử là bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí tổ chức hoạt động thể thao, văn hóa mỗi tháng là bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí xét tuyển chương trình đại học liên thông là bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày là bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Phí điện nước cho phòng không điều hòa là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Phí điện nước cho phòng có điều hòa là bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Phí lưu trú được tính như thế nào cho sinh viên?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng."
+        },
+        {
+            "Bạn": "Học phí cho sinh viên hoàn thành tín chỉ nợ là bao nhiêu?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất."
+        },
+        {
+            "Bạn": "Các quy định học phí trước đây có còn hiệu lực không?",
+            "HPU": "Không, các quy định trái với quyết định này bị bãi bỏ từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai chịu trách nhiệm thực hiện quyết định này?",
+            "HPU": "Hiệu trưởng, Kế toán trưởng, trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm thực hiện."
+        },
+        {
+            "Bạn": "Ai ký quyết định về học phí?",
+            "HPU": "GS.TS.NGUT Trần Hữu Nghị ký quyết định."
+        },
+        {
+            "Bạn": "Tài liệu \"Hoc phi 1025.pdf\" nói về cái gì?",
+            "HPU": "Đây là Quyết định số 87.../QD-CTHĐT ngày 17/02/2025 về mức thu học phí và các khoản đóng góp khác từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Quyết định học phí có hiệu lực từ ngày nào?",
+            "HPU": "Quyết định có hiệu lực từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai là người ban hành quyết định học phí của HPU?",
+            "HPU": "Chủ tịch Hội đồng Trường Đại học Quản lý và Công nghệ Hải Phòng ban hành quyết định."
+        },
+        {
+            "Bạn": "Chính sách học phí của HPU bắt đầu từ khi nào?",
+            "HPU": "Chính sách bắt đầu từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Cơ sở pháp lý nào dùng để ban hành quyết định học phí?",
+            "HPU": "Dựa trên Luật Giáo dục đại học, Quyết định 641/QĐ-TTg (29/5/2019) và các quyết định của Hội đồng trường."
+        },
+        {
+            "Bạn": "Học phí chương trình cao học bao nhiêu tiền?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy tính theo tín chỉ là mấy?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Sinh viên đại học trả học phí trung bình mỗi tháng bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy."
+        },
+        {
+            "Bạn": "Lớp từ 16 sinh viên trở lên mất bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Lớp từ 10 đến 15 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "Lớp từ 5 đến 9 sinh viên phải trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên."
+        },
+        {
+            "Bạn": "Lớp dưới 5 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên."
+        },
+        {
+            "Bạn": "Học phí ngoài giờ hành chính được tính như thế nào?",
+            "HPU": "Học phí ngoài giờ hành chính bằng 1,5 lần mức trong giờ hành chính (trừ lớp mục 1.3 từ 15 sinh viên trở lên)."
+        },
+        {
+            "Bạn": "Một tín chỉ đại học chính quy giá bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Một tín chỉ cao học giá bao nhiêu tiền?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học."
+        },
+        {
+            "Bạn": "Thi lại học phần cao học mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Thi lại học phần đại học giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Thi để cải thiện điểm học phần tốn bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Thi lại một môn cao học có giá bao nhiêu?",
+            "HPU": "Phí thi lại một môn cao học là 150.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Thi lại một môn đại học mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại một môn đại học là 75.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của trường có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không có lỗi thì tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên."
+        },
+        {
+            "Bạn": "Phúc tra kết quả thi tốt nghiệp đại học giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi."
+        },
+        {
+            "Bạn": "Phúc tra kết quả bảo vệ khóa luận tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần."
+        },
+        {
+            "Bạn": "Phúc tra điểm do lỗi chấm bài có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi chấm bài hoặc nhập điểm là miễn phí."
+        },
+        {
+            "Bạn": "Phí xét miễn một học phần là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Công nhận một tín chỉ tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Miễn một tín chỉ tại HPU giá bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Chi phí xét miễn tín chỉ là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần giá bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài tốt nghiệp đại học tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài cao học giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp cao học mất bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp đại học giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần."
+        },
+        {
+            "Bạn": "Cấp bản sao bằng tốt nghiệp tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ học viên cao học là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên."
+        },
+        {
+            "Bạn": "Phí dùng thư viện điện tử giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày giá bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày tốn bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Phí lưu trú của sinh viên được tính thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng."
+        },
+        {
+            "Bạn": "Học phí cho sinh viên hoàn thành tín chỉ nợ là bao nhiêu?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất."
+        },
+        {
+            "Bạn": "Các quy định học phí cũ còn hiệu lực không?",
+            "HPU": "Không, các quy định trái với quyết định này bị bãi bỏ từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai chịu trách nhiệm thực hiện quyết định học phí?",
+            "HPU": "Hiệu trưởng, Kế toán trưởng, trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm."
+        },
+        {
+            "Bạn": "Người ký quyết định học phí là ai?",
+            "HPU": "GS.TS.NGUT Trần Hữu Nghị ký quyết định."
+        },
+        {
+            "Bạn": "Quyết định \"Hoc phi 1025.pdf\" được ban hành ngày nào?",
+            "HPU": "Quyết định được ban hành ngày 17/02/2025."
+        },
+        {
+            "Bạn": "Học phí cao học mỗi tín chỉ giá bao nhiêu vào năm 2025?",
+            "HPU": "Học phí cao học là 1.150.000 đồng/tín chỉ, áp dụng từ năm học 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy trung bình mỗi tháng là mấy tiền?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy."
+        },
+        {
+            "Bạn": "Lớp 16 sinh viên trở lên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Lớp từ 11 đến 15 sinh viên tốn bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "Lớp dưới 6 sinh viên trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên."
+        },
+        {
+            "Bạn": "Học phí lớp ngoài giờ hành chính cao hơn bao nhiêu lần?",
+            "HPU": "Học phí ngoài giờ hành chính bằng 1,5 lần mức trong giờ hành chính (trừ một số trường hợp)."
+        },
+        {
+            "Bạn": "Một tín chỉ đại học trong giờ hành chính giá bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Một tín chỉ chương trình cao học tốn bao nhiêu tiền?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học."
+        },
+        {
+            "Bạn": "Thi lại môn cao học năm 2025 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại môn đại học năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi cải thiện điểm một môn giá bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi nhập điểm có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi nhập điểm hoặc chấm bài là miễn phí."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không sửa điểm tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không sửa điểm hoặc lỗi do sinh viên."
+        },
+        {
+            "Bạn": "Phúc tra bài thi tốt nghiệp đại học giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi."
+        },
+        {
+            "Bạn": "Phúc tra khóa luận tốt nghiệp tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần."
+        },
+        {
+            "Bạn": "Xét miễn tín chỉ tại HPU giá bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ khóa luận đại học giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ luận văn cao học tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần."
+        },
+        {
+            "Bạn": "Cấp bằng thạc sĩ giá bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần."
+        },
+        {
+            "Bạn": "Cấp bằng cử nhân tốn bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần."
+        },
+        {
+            "Bạn": "Làm bản sao bằng tốt nghiệp giá bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản."
+        },
+        {
+            "Bạn": "Phí nhập học cao học là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử tốn bao nhiêu tiền?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng giá bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí hoạt động văn hóa, thể thao mỗi tháng là bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng."
+        },
+        {
+            "Bạn": "Phí xét tuyển chương trình liên thông giá bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày tốn bao nhiêu tiền?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người)."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa mỗi tháng là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa mỗi tháng giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế sử dụng."
+        },
+        {
+            "Bạn": "Sinh viên ở khách sạn trả phí lưu trú như thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng."
+        },
+        {
+            "Bạn": "Sinh viên nợ tín chỉ trả học phí theo mức nào?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất."
+        },
+        {
+            "Bạn": "Quy định học phí cũ có bị hủy không?",
+            "HPU": "Có, các quy định trái với quyết định này bị bãi bỏ từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai phụ trách thực hiện quyết định học phí này?",
+            "HPU": "Hiệu trưởng, Kế toán trưởng, trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm."
+        },
+        {
+            "Bạn": "Người ký quyết định \"Hoc phi 1025.pdf\" là ai?",
+            "HPU": "GS.TS.NGUT Trần Hữu Nghị ký quyết định."
+        },
+        {
+            "Bạn": "Học phí cao học mỗi tín chỉ là bao nhiêu vào năm 2026?",
+            "HPU": "Học phí cao học là 1.150.000 đồng/tín chỉ, áp dụng từ năm học 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy mỗi tháng trung bình bao nhiêu tiền?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy."
+        },
+        {
+            "Bạn": "Lớp 17 sinh viên trở lên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Lớp từ 12 đến 15 sinh viên tốn bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "L消费 từ 6 đến 9 sinh viên trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên."
+        },
+        {
+            "Bạn": "Thi lại môn đại học năm 2026 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại môn cao học năm 2026 tốn bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi ghép phách có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi ghép phách hoặc chấm bài là miễn phí."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi mà không sửa điểm giá bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không sửa điểm hoặc lỗi do sinh viên."
+        },
+        {
+            "Bạn": "Phúc tra bài thi tốt nghiệp đại học năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra khóa luận tốt nghiệp năm 2025 giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Xét miễn một tín chỉ năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ khóa luận đại học năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ luận văn cao học năm 2025 giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng thạc sĩ năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng cử nhân năm 2025 giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Làm bản sao bằng tốt nghiệp năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí nhập học chương trình cao học năm 2025 là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử năm 2025 giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng năm 2025 là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng năm 2025 giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày năm 2025 là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày năm 2025 giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa năm 2025 là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa năm 2025 giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên ở khách sạn năm 2025 trả phí lưu trú như thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên nợ tín chỉ năm 2025 trả học phí theo mức nào?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất, bắt đầu từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Quy định học phí cũ có còn áp dụng từ năm 2025 không?",
+            "HPU": "Không, các quy định trái với quyết định này bị bãi bỏ từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai chịu trách nhiệm thực hiện quyết định học phí từ năm 2025?",
+            "HPU": "Hiệu trưởng, Kế toán trưởng, trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Ai ký quyết định học phí áp dụng từ năm 2025?",
+            "HPU": "GS.TS.NGUT Trần Hữu Nghị ký quyết định, có hiệu lực từ 1/8/2025."
+        },
+        {
+            "Bạn": "Học phí chương trình cao học mỗi tín chỉ là mấy tiền?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy mỗi tín chỉ tốn bao nhiêu tiền?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính."
+        },
+        {
+            "Bạn": "Học phí đại học trung bình mỗi tháng giá bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy."
+        },
+        {
+            "Bạn": "Lớp từ 18 sinh viên trở lên tốn bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Lớp từ 13 đến 15 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "Lớp từ 7 đến 9 sinh viên trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên."
+        },
+        {
+            "Bạn": "Lớp dưới 4 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên."
+        },
+        {
+            "Bạn": "Học phí lớp ngoài giờ hành chính được tính ra sao?",
+            "HPU": "Học phí ngoài giờ hành chính bằng 1,5 lần mức trong giờ hành chính (trừ lớp mục 1.3 từ 15 sinh viên trở lên)."
+        },
+        {
+            "Bạn": "Một tín chỉ đại học chính quy năm 2025 giá bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Một tín chỉ cao học năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại học phần cao học năm 2026 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại học phần đại học năm 2026 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi cải thiện điểm học phần năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn cao học năm 2027 có giá bao nhiêu?",
+            "HPU": "Phí thi lại một môn cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn đại học năm 2027 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại một môn đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của giảng viên có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không có lỗi của trường tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên."
+        },
+        {
+            "Bạn": "Phúc tra kết quả thi tốt nghiệp đại học năm 2026 giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả bảo vệ khóa luận năm 2026 tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi nhập sai có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi nhập điểm hoặc chấm bài là miễn phí."
+        },
+        {
+            "Bạn": "Phí xét miễn học phần năm 2026 là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận một tín chỉ năm 2026 tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Miễn một tín chỉ tại HPU năm 2026 giá bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Chi phí xét miễn tín chỉ năm 2026 là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần năm 2026 giá bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài tốt nghiệp đại học năm 2026 tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài cao học năm 2026 giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp cao học năm 2026 mất bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp đại học năm 2026 giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bản sao bằng tốt nghiệp năm 2026 tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ học viên cao học năm 2026 là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử năm 2026 giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng năm 2026 là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng năm 2026 giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông năm 2026 tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày năm 2026 là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày năm 2026 giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa năm 2026 là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa năm 2026 giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên ở khách sạn năm 2026 trả phí lưu trú như thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên nợ tín chỉ năm 2026 trả học phí theo mức nào?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất, bắt đầu từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Quyết định học phí có hiệu lực từ tháng mấy năm 2025?",
+            "HPU": "Quyết định có hiệu lực từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Học phí chương trình cao học mỗi tín chỉ năm 2027 là bao nhiêu?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy mỗi tín chỉ năm 2027 tốn bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học trung bình mỗi tháng năm 2027 giá bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 19 sinh viên trở lên tốn bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên."
+        },
+        {
+            "Bạn": "Lớp từ 14 đến 15 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên."
+        },
+        {
+            "Bạn": "Lớp từ 8 đến 9 sinh viên trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên."
+        },
+        {
+            "Bạn": "Lớp dưới 3 sinh viên có học phí mỗi tiết là bao nhiêu?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên."
+        },
+        {
+            "Bạn": "Phí thi lại học phần cao học năm 2027 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi lại học phần đại học năm 2027 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi cải thiện điểm học phần năm 2026 tốn bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của trường năm 2026 có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không có lỗi năm 2026 tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả thi tốt nghiệp đại học năm 2027 giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả bảo vệ khóa luận năm 2027 tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét miễn học phần năm 2027 là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận một tín chỉ năm 2027 tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Miễn một tín chỉ tại HPU năm 2027 giá bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Chi phí xét miễn tín chỉ năm 2027 là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần năm 2027 giá bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài tốt nghiệp đại học năm 2027 tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài cao học năm 2027 giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp cao học năm 2027 mất bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp đại học năm 2027 giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bản sao bằng tốt nghiệp năm 2027 tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ học viên cao học năm 2027 là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử năm 2027 giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng năm 2027 là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng năm 2027 giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông năm 2027 tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày năm 2027 là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày năm 2027 giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa năm 2027 là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa năm 2027 giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên ở khách sạn năm 2027 trả phí lưu trú như thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên nợ tín chỉ năm 2027 trả học phí theo mức nào?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất, bắt đầu từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Quyết định học phí được ban hành bởi ai vào ngày nào?",
+            "HPU": "Quyết định được ban hành bởi GS.TS.NGUT Trần Hữu Nghị vào ngày 17/02/2025."
+        },
+        {
+            "Bạn": "Học phí chương trình cao học mỗi tín chỉ từ năm 2025 là bao nhiêu?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ, áp dụng từ năm học 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy mỗi tín chỉ từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học trung bình mỗi tháng từ năm 2025 giá bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 20 sinh viên trở lên tốn bao nhiêu tiền mỗi tiết từ năm 2025?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 10 đến 14 sinh viên có học phí mỗi tiết bao nhiêu từ năm 2025?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 5 đến 8 sinh viên trả bao nhiêu tiền mỗi tiết từ năm 2025?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp dưới 5 sinh viên có học phí mỗi tiết là mấy từ năm 2025?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Học phí lớp ngoài giờ hành chính từ năm 2025 được tính thế nào?",
+            "HPU": "Học phí ngoài giờ hành chính bằng 1,5 lần mức trong giờ hành chính (trừ lớp mục 1.3 từ 15 sinh viên trở lên), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Một tín chỉ đại học chính quy từ năm 2026 giá bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Một tín chỉ cao học từ năm 2026 tốn bao nhiêu tiền?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi lại học phần cao học từ năm 2025 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi lại học phần đại học từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi cải thiện điểm học phần từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn cao học từ năm 2025 có giá bao nhiêu?",
+            "HPU": "Phí thi lại một môn cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn đại học từ năm 2025 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại một môn đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của trường từ năm 2025 có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không có lỗi từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả thi tốt nghiệp đại học từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả bảo vệ khóa luận từ năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi chấm sai từ năm 2025 có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi chấm bài hoặc nhập điểm là miễn phí, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét miễn học phần từ năm 2025 là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận một tín chỉ từ năm 2025 tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Miễn một tín chỉ tại HPU từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Chi phí xét miễn tín chỉ từ năm 2025 là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài tốt nghiệp đại học từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài cao học từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp cao học từ năm 2025 mất bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp đại học từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bản sao bằng tốt nghiệp từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ học viên cao học từ năm 2025 là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng từ năm 2025 là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày từ năm 2025 là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày từ năm 2025 giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa từ năm 2025 là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng có điều hòa từ năm 2025 giá bao nhiêu?",
+            "HPU": "Phí điện nước là 120.000 đồng/người/tháng (hoặc 480.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên ở khách sạn từ năm 2025 trả phí lưu trú như thế nào?",
+            "HPU": "Phí lưu trú tạm thu theo kỳ (5 tháng/kỳ, 30 ngày/tháng), quyết toán khi trả phòng, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Sinh viên nợ tín chỉ từ năm 2025 trả học phí theo mức nào?",
+            "HPU": "Áp dụng mức học phí của khóa nhập học gần nhất, bắt đầu từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Quy định học phí cũ từ năm 2025 có còn hiệu lực không?",
+            "HPU": "Không, các quy định trái với quyết định này bị bãi bỏ từ ngày 1/8/2025."
+        },
+        {
+            "Bạn": "Ai chịu trách nhiệm thực hiện quyết định học phí từ năm 2025?",
+            "HPU": "Hiệu trưởng, Kế toán trưởng, trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Quyết định học phí áp dụng từ năm 2025 được ký bởi ai?",
+            "HPU": "GS.TS.NGUT Trần Hữu Nghị ký quyết định, có hiệu lực từ 1/8/2025."
+        },
+        {
+            "Bạn": "Học phí cao học mỗi tín chỉ áp dụng từ năm 2025 là bao nhiêu?",
+            "HPU": "Học phí chương trình cao học là 1.150.000 đồng/tín chỉ, áp dụng từ năm học 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học chính quy mỗi tín chỉ áp dụng từ năm 2025 tốn bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Học phí đại học trung bình mỗi tháng áp dụng từ năm 2025 giá bao nhiêu?",
+            "HPU": "Học phí bình quân là 2.207.000 đồng/tháng cho chương trình đại học chính quy, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 16 sinh viên trở lên từ năm 2025 tốn bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 45.000 đồng/tiết cho lớp từ 16 sinh viên trở lên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 10 đến 15 sinh viên từ năm 2025 có học phí mỗi tiết bao nhiêu?",
+            "HPU": "Học phí là 75.000 đồng/tiết cho lớp từ 10 đến 15 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp từ 5 đến 9 sinh viên từ năm 2025 trả bao nhiêu tiền mỗi tiết?",
+            "HPU": "Học phí là 150.000 đồng/tiết cho lớp từ 5 đến 9 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Lớp dưới 5 sinh viên từ năm 2025 có học phí mỗi tiết là mấy?",
+            "HPU": "Học phí là 220.000 đồng/tiết cho lớp dưới 5 sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Một tín chỉ đại học chính quy từ năm 2024 giá bao nhiêu?",
+            "HPU": "Học phí là 618.000 đồng/tín chỉ cho chương trình đại học chính quy trong giờ hành chính, áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Một tín chỉ cao học từ năm 2024 tốn bao nhiêu tiền?",
+            "HPU": "Học phí là 1.150.000 đồng/tín chỉ cho chương trình cao học, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi lại học phần cao học từ năm 2024 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại học phần cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi lại học phần đại học từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí thi lại học phần đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí thi cải thiện điểm học phần từ năm 2024 tốn bao nhiêu?",
+            "HPU": "Phí thi cải thiện điểm là 95.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn cao học từ năm 2024 có giá bao nhiêu?",
+            "HPU": "Phí thi lại một môn cao học là 150.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Thi lại một môn đại học từ năm 2024 mất bao nhiêu tiền?",
+            "HPU": "Phí thi lại một môn đại học là 75.000 đồng/học phần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi của trường từ năm 2024 có mất phí không?",
+            "HPU": "Không, phúc tra do lỗi của trường (chấm, nhập điểm) là miễn phí, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi không có lỗi từ năm 2024 tốn bao nhiêu?",
+            "HPU": "Phí là 100.000 đồng/học phần nếu không có lỗi hoặc lỗi do sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả thi tốt nghiệp đại học từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí phúc tra kết quả thi tốt nghiệp đại học là 300.000 đồng/bài thi, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra kết quả bảo vệ khóa luận từ năm 2024 tốn bao nhiêu tiền?",
+            "HPU": "Phí phúc tra kết quả bảo vệ khóa luận là 1.500.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phúc tra điểm thi do lỗi chấm sai từ năm 2024 có miễn phí không?",
+            "HPU": "Có, phúc tra do lỗi chấm bài hoặc nhập điểm là miễn phí, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét miễn học phần từ năm 2024 là bao nhiêu?",
+            "HPU": "Phí xét miễn hoặc công nhận học phần là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận một tín chỉ từ năm 2024 tốn bao nhiêu tiền?",
+            "HPU": "Phí công nhận một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Miễn một tín chỉ tại HPU từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí miễn một tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Chi phí xét miễn tín chỉ từ năm 2024 là bao nhiêu?",
+            "HPU": "Chi phí xét miễn tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Công nhận tín chỉ học phần từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí công nhận tín chỉ là 60.000 đồng/tín chỉ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài tốt nghiệp đại học từ năm 2024 tốn bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài tốt nghiệp đại học là 1.850.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tổ chức bảo vệ đề tài cao học từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí tổ chức bảo vệ đề tài cao học là 3.800.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp cao học từ năm 2024 mất bao nhiêu tiền?",
+            "HPU": "Phí cấp bằng tốt nghiệp cao học là 1.000.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bằng tốt nghiệp đại học từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí cấp bằng tốt nghiệp đại học là 300.000 đồng/lần, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Cấp bản sao bằng tốt nghiệp từ năm 2024 tốn bao nhiêu?",
+            "HPU": "Phí cấp bản sao bằng tốt nghiệp là 100.000 đồng/bản, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí nhập học và làm thẻ học viên cao học từ năm 2024 là bao nhiêu?",
+            "HPU": "Phí nhập học và làm thẻ học viên cao học là 300.000 đồng/học viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí sử dụng thư viện điện tử từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí sử dụng thư viện điện tử là 150.000 đồng/sinh viên, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí bảo trì cơ sở vật chất mỗi tháng từ năm 2024 là bao nhiêu?",
+            "HPU": "Phí bảo trì cơ sở vật chất và vệ sinh môi trường là 200.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí hoạt động thể thao, văn hóa mỗi tháng từ năm 2024 giá bao nhiêu?",
+            "HPU": "Phí tổ chức hoạt động thể thao, văn hóa là 50.000 đồng/tháng, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Phí xét tuyển đại học liên thông từ năm 2024 tốn bao nhiêu?",
+            "HPU": "Phí xét tuyển chương trình đại học liên thông là 200.000 đồng/hồ sơ, áp dụng từ năm 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng không điều hòa mỗi ngày từ năm 2024 là bao nhiêu?",
+            "HPU": "Tiền phòng không điều hòa là 15.000 đồng/người/ngày (hoặc 60.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Tiền phòng có điều hòa mỗi ngày từ năm 2024 giá bao nhiêu?",
+            "HPU": "Tiền phòng có điều hòa là 20.000 đồng/người/ngày (hoặc 80.000 đồng/phòng, tối đa 4 người), áp dụng từ 2025-2026."
+        },
+        {
+            "Bạn": "Phí điện nước phòng không điều hòa từ năm 2024 là bao nhiêu?",
+            "HPU": "Phí điện nước là 50.000 đồng/người/tháng (hoặc 200.000 đồng/phòng), tính theo thực tế, áp dụng từ 2025-2026."
+        }
+    ]
+}

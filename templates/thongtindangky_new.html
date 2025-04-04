@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sách Người Đăng Ký</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f5;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .add-btn {
+            background-color: #4CAF50;
+            color: white;
+            margin-bottom: 20px;
+        }
+        .edit-btn {
+            background-color: #007BFF;
+            color: white;
+            margin-right: 5px;
+        }
+        .delete-btn {
+            background-color: #dc3545;
+            color: white;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            max-width: 90%;
+        }
+        .modal-content input,
+        .modal-content select,
+        .modal-content textarea {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+        .modal-content button {
+            width: 48%;
+            margin-top: 10px;
+        }
+        .close-btn {
+            background-color: #6c757d;
+            color: white;
+        }
+        .error-message {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Danh Sách Người Đăng Ký</h2>
+        <button class="add-btn" onclick="openAddModal()">Thêm Sinh Viên</button>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Họ và Tên</th>
+                    <th>Số Điện Thoại</th>
+                    <th>Email</th>
+                    <th>Chuyên Ngành</th>
+                    <th>Lời Nhắn</th>
+                    <th>Ngày Đăng Ký</th>
+                    <th>Hành Động</th>
+                </tr>
+            </thead>
+            <tbody id="user-list">
+                <tr><td colspan="8">Đang tải dữ liệu...</td></tr>
+            </tbody>
+        </table>
+        <div id="error-message" class="error-message"></div>
+    </div>
+
+    <!-- Modal để thêm/sửa sinh viên -->
+    <div id="student-modal" class="modal">
+        <div class="modal-content">
+            <h3 id="modal-title">Thêm Sinh Viên</h3>
+            <input type="hidden" id="student-id">
+            <input type="text" id="modal-name" placeholder="Họ và tên">
+            <input type="text" id="modal-phone" placeholder="Số điện thoại">
+            <input type="email" id="modal-email" placeholder="Email">
+            <select id="modal-major">
+                <option value="">Chọn chuyên ngành</option>
+                <option value="CNTT_PM">Công nghệ phần mềm</option>
+                <option value="CNTT_ATTT">Quản trị và an ninh mạng</option>
+                <option value="KTDT_IoT">Công nghệ Internet vạn vật (IoT)</option>
+                <option value="KTDT_DTVT">Điện tử - truyền thông</option>
+                <option value="KTDT_TDH">Điện tự động công nghiệp</option>
+                <option value="KTMT_MTATLD">Kỹ thuật môi trường và an toàn lao động</option>
+                <option value="KTMT_QLTNMTN">Quản lý tài nguyên môi trường nước</option>
+                <option value="KTMT_QLTNDD">Quản lý tài nguyên đất đai</option>
+                <option value="QTKD_QTKD">Quản trị doanh nghiệp</option>
+                <option value="QTKD_KTKT">Kế toán kiểm toán</option>
+                <option value="QTKD_QTMK">Quản trị marketing</option>
+                <option value="QTKD_QTLogistics">Quản trị logistics và chuỗi cung ứng</option>
+                <option value="QTKD_KTCKH">Khai thác cảng hàng không</option>
+                <option value="VNH_VHDL">Văn hóa du lịch</option>
+                <option value="VNH_QTDL">Quản trị du lịch</option>
+                <option value="NNA">Ngôn ngữ Anh</option>
+                <option value="NNA_T">Ngôn ngữ Anh - Trung</option>
+                <option value="NNA_H">Ngôn ngữ Anh - Hàn</option>
+                <option value="NNA_N">Ngôn ngữ Anh - Nhật</option>
+                <option value="NNT">Ngôn ngữ Trung Quốc</option>
+            </select>
+            <textarea id="modal-message" placeholder="Lời nhắn"></textarea>
+            <button onclick="saveStudent()">Lưu</button>
+            <button class="close-btn" onclick="closeModal()">Đóng</button>
+        </div>
+    </div>
+
+    <script>
+        function fetchUsers() {
+            fetch('/get-students')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Không thể tải dữ liệu');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const tbody = document.getElementById('user-list');
+                    const errorMessage = document.getElementById('error-message');
+                    tbody.innerHTML = '';
+                    errorMessage.textContent = '';
+                    if (data.length === 0) {
+                        tbody.innerHTML = '<tr><td colspan="8">Chưa có người đăng ký.</td></tr>';
+                    } else {
+                        data.forEach(user => {
+                            const row = `
+                                <tr>
+                                    <td>${user.id}</td>
+                                    <td>${user.name}</td>
+                                    <td>${user.phone}</td>
+                                    <td>${user.email}</td>
+                                    <td>${user.major}</td>
+                                    <td>${user.message || ''}</td>
+                                    <td>${user.created_at}</td>
+                                    <td>
+                                        <button class="edit-btn" onclick="openEditModal(${user.id}, '${user.name}', '${user.phone}', '${user.email}', '${user.major}', '${user.message || ''}')">Sửa</button>
+                                        <button class="delete-btn" onclick="deleteStudent(${user.id})">Xóa</button>
+                                    </td>
+                                </tr>`;
+                            tbody.innerHTML += row;
+                        });
+                    }
+                })
+                .catch(error => {
+                    console.error('Lỗi khi tải danh sách:', error);
+                    document.getElementById('error-message').textContent = 'Lỗi khi tải dữ liệu: ' + error.message;
+                });
+        }
+
+        function openAddModal() {
+            document.getElementById('modal-title').textContent = 'Thêm Sinh Viên';
+            document.getElementById('student-id').value = '';
+            document.getElementById('modal-name').value = '';
+            document.getElementById('modal-phone').value = '';
+            document.getElementById('modal-email').value = '';
+            document.getElementById('modal-major').value = '';
+            document.getElementById('modal-message').value = '';
+            document.getElementById('student-modal').style.display = 'flex';
+        }
+
+        function openEditModal(id, name, phone, email, major, message) {
+            document.getElementById('modal-title').textContent = 'Sửa Sinh Viên';
+            document.getElementById('student-id').value = id;
+            document.getElementById('modal-name').value = name;
+            document.getElementById('modal-phone').value = phone;
+            document.getElementById('modal-email').value = email;
+            document.getElementById('modal-major').value = major;
+            document.getElementById('modal-message').value = message;
+            document.getElementById('student-modal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('student-modal').style.display = 'none';
+        }
+
+        function saveStudent() {
+            const id = document.getElementById('student-id').value;
+            const name = document.getElementById('modal-name').value.trim();
+            const phone = document.getElementById('modal-phone').value.trim();
+            const email = document.getElementById('modal-email').value.trim();
+            const major = document.getElementById('modal-major').value;
+            const message = document.getElementById('modal-message').value.trim() || null;
+
+            if (!name || !phone || !email || !major) {
+                alert("Vui lòng nhập đầy đủ thông tin!");
+                return;
+            }
+
+            const data = { name, phone, email, major, message };
+            const url = id ? '/update-student' : '/add-student';
+            if (id) data.id = id;
+
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Lỗi khi lưu sinh viên');
+                }
+                return response.json();
+            })
+            .then(data => {
+                alert(data.message);
+                fetchUsers();
+                closeModal();
+            })
+            .catch(error => {
+                console.error('Lỗi khi lưu sinh viên:', error);
+                alert('Lỗi khi lưu sinh viên: ' + error.message);
+            });
+        }
+
+        function deleteStudent(id) {
+            if (confirm("Bạn có chắc chắn muốn xóa sinh viên này?")) {
+                fetch('/delete-student', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ id })
+                })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Lỗi khi xóa sinh viên');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    alert(data.message);
+                    fetchUsers();
+                })
+                .catch(error => {
+                    console.error('Lỗi khi xóa sinh viên:', error);
+                    alert('Lỗi khi xóa sinh viên: ' + error.message);
+                });
+            }
+        }
+
+        window.onload = fetchUsers;
+    </script>
+</body>
+</html>

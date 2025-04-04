@@ -1,0 +1,403 @@
+import json
+import os
+import difflib
+import sys
+from flask import Flask, render_template, request, jsonify
+import google.generativeai as genai
+from dotenv import load_dotenv
+import mysql.connector
+from mysql.connector import Error
+
+# Thay đổi mã hóa của console thành UTF-8
+if sys.platform == "win32":
+    os.system("chcp 65001")  # Thay đổi code page của console thành UTF-8
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+
+# Load biến môi trường từ file .env
+load_dotenv(dotenv_path="API.env")
+API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not API_KEY:
+    raise ValueError("API Key không được tìm thấy trong API.env")
+
+# Cấu hình Gemini API
+genai.configure(api_key=API_KEY)
+
+app = Flask(__name__)
+CHAT_HISTORY_FILE = "chat_history.json"
+
+# Đọc dữ liệu từ file JSON
+def load_json_data(filepath):
+    try:
+        if not os.path.exists(filepath):
+            return []
+        with open(filepath, "r", encoding="utf-8") as file:
+            return json.load(file)
+    except (json.JSONDecodeError, IOError) as e:
+        print(f"Error reading file {filepath}: {e}")
+        return []
+
+# Lưu dữ liệu vào file JSON
+def save_json_data(filepath, data):
+    try:
+        with open(filepath, "w", encoding="utf-8") as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+    except IOError as e:
+        print(f"Error saving file {filepath}: {e}")
+
+# Đọc dữ liệu huấn luyện
+def load_trained_data(filepath):
+    try:
+        if not os.path.exists(filepath):
+            return {}
+        with open(filepath, "r", encoding="utf-8") as file:
+            return json.load(file)
+    except json.JSONDecodeError as e:
+        print(f"Error reading trained_data: {e}")
+        return {}
+
+# Tìm câu hỏi tương tự
+def find_best_match(question, data, threshold=0.55):
+    if not data:
+        return None
+    questions = list(data.keys())
+    matches = difflib.get_close_matches(question, questions, n=1, cutoff=threshold)
+    return matches[0] if matches else None
+
+# Gọi API Gemini
+def ask_gemini_v2(question):
+    try:
+        model = genai.GenerativeModel("gemini-1.5-pro")
+        chat = model.start_chat(history=[])
+        response = chat.send_message(question)
+        return response.text.strip() if response else "No response from Gemini."
+    except Exception as e:
+        return f"Error calling Gemini API: {str(e)}"
+
+# Lưu lịch sử chat
+def save_chat_history(user_question, bot_response):
+    history = load_json_data(CHAT_HISTORY_FILE)
+    history.append({"question": user_question, "answer": bot_response})
+    save_json_data(CHAT_HISTORY_FILE, history)
+
+# Lấy câu trả lời
+def get_answer(question, data):
+    best_match = find_best_match(question, data)
+    answer = data.get(best_match) if best_match else ask_gemini_v2(question)
+    save_chat_history(question, answer)
+    return answer
+
+# Khởi tạo dữ liệu huấn luyện
+trained_data = load_trained_data("trained_data.json")
+
+# Kết nối MySQL
+def get_db_connection():
+    try:
+        conn = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="",  # Nếu user root có mật khẩu, hãy cập nhật ở đây
+            database="qlsv",
+            port=3306
+        )
+        print(f"Connected to database: {conn.database}")
+        # Kiểm tra xem bảng consultation_users có tồn tại không
+        cursor = conn.cursor()
+        cursor.execute("SHOW TABLES LIKE 'consultation_users'")
+        result = cursor.fetchone()
+        if result:
+            print("Table 'consultation_users' exists in database qlsv")
+        else:
+            print("Table 'consultation_users' does not exist in database qlsv")
+        cursor.close()
+        return conn
+    except Error as err:
+        print(f"Database connection error: {err}")
+        return None
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route("/thongtindangky_new")
+def thongtindangky():
+    return render_template("thongtindangky_new.html")
+
+@app.route("/ask", methods=["POST"])
+def ask():
+    try:
+        user_question = request.json.get("question")
+        if not user_question:
+            return jsonify({"error": "No question provided"}), 400
+        
+        if not trained_data:
+            return jsonify({"answer": "No training data available."})
+            
+        answer = get_answer(user_question, trained_data)
+        return jsonify({"answer": answer})
+    except Exception as e:
+        return jsonify({"error": f"Error processing request: {str(e)}"}), 500
+
+@app.route("/chat-history", methods=["GET"])
+def get_chat_history():
+    history = load_json_data(CHAT_HISTORY_FILE)
+    return jsonify(history)
+
+@app.route("/register", methods=["POST"])
+def register():
+    conn = None
+    cursor = None
+    try:
+        # Kiểm tra dữ liệu từ frontend
+        user_data = request.json
+        print("Data received from frontend:", user_data)
+
+        if not isinstance(user_data, dict):
+            return jsonify({"error": "Data must be a JSON object"}), 400
+
+        required_fields = ["name", "phone", "email", "major"]
+        missing_fields = [field for field in required_fields if field not in user_data or not user_data[field]]
+        if missing_fields:
+            return jsonify({"error": f"Missing fields: {', '.join(missing_fields)}"}), 400
+
+        # Kiểm tra độ dài dữ liệu
+        if len(user_data["name"]) > 100 or len(user_data["email"]) > 100 or len(user_data["major"]) > 100:
+            return jsonify({"error": "Name, email, or major exceeds 100 characters"}), 400
+        if len(user_data["phone"]) > 20:
+            return jsonify({"error": "Phone number exceeds 20 characters"}), 400
+
+        # Trường message là tùy chọn, nếu không có thì để NULL
+        message = user_data.get("message", None)
+
+        # Kết nối database
+        conn = get_db_connection()
+        if not conn:
+            return jsonify({"error": "Cannot connect to database"}), 500
+
+        # Tạo cursor mới để thực hiện các truy vấn
+        cursor = conn.cursor()
+        sql = "INSERT INTO consultation_users (name, phone, email, major, message) VALUES (%s, %s, %s, %s, %s)"
+        val = (user_data["name"], user_data["phone"], user_data["email"], user_data["major"], message)
+        cursor.execute(sql, val)
+        conn.commit()
+        
+        print(f"Inserted {cursor.rowcount} record(s). Database: {conn.database}")
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No records were inserted"}), 500
+
+        # Tạo cursor mới để kiểm tra dữ liệu vừa chèn
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM consultation_users WHERE email = %s", (user_data["email"],))
+        result = cursor.fetchone()
+        print("Inserted data:", result)
+
+        return jsonify({"message": "Đăng ký thành công!"})
+    except Error as err:
+        print(f"Database error: {err}")
+        return jsonify({"error": f"Database error: {str(err)}"}), 500
+    except Exception as e:
+        print(f"Other error: {e}")
+        return jsonify({"error": f"Error: {str(e)}"}), 500
+    finally:
+        if cursor is not None:
+            try:
+                cursor.close()
+            except Error as e:
+                print(f"Error closing cursor: {e}")
+        if conn is not None:
+            try:
+                conn.close()
+            except Error as e:
+                print(f"Error closing connection: {e}")
+
+# Route để lấy danh sách sinh viên
+@app.route("/get-students", methods=["GET"])
+def get_students():
+    conn = None
+    cursor = None
+    try:
+        conn = get_db_connection()
+        if not conn:
+            return jsonify({"error": "Cannot connect to database"}), 500
+
+        cursor = conn.cursor(dictionary=True)
+        cursor.execute("SELECT * FROM consultation_users")
+        students = cursor.fetchall()
+        return jsonify(students)
+    except Error as err:
+        print(f"Database error: {err}")
+        return jsonify({"error": f"Database error: {str(err)}"}), 500
+    finally:
+        if cursor is not None:
+            try:
+                cursor.close()
+            except Error as e:
+                print(f"Error closing cursor: {e}")
+        if conn is not None:
+            try:
+                conn.close()
+            except Error as e:
+                print(f"Error closing connection: {e}")
+
+# Route để thêm sinh viên
+@app.route("/add-student", methods=["POST"])
+def add_student():
+    conn = None
+    cursor = None
+    try:
+        user_data = request.json
+        print("Data received for adding student:", user_data)
+
+        if not isinstance(user_data, dict):
+            return jsonify({"error": "Data must be a JSON object"}), 400
+
+        required_fields = ["name", "phone", "email", "major"]
+        missing_fields = [field for field in required_fields if field not in user_data or not user_data[field]]
+        if missing_fields:
+            return jsonify({"error": f"Missing fields: {', '.join(missing_fields)}"}), 400
+
+        if len(user_data["name"]) > 100 or len(user_data["email"]) > 100 or len(user_data["major"]) > 100:
+            return jsonify({"error": "Name, email, or major exceeds 100 characters"}), 400
+        if len(user_data["phone"]) > 20:
+            return jsonify({"error": "Phone number exceeds 20 characters"}), 400
+
+        message = user_data.get("message", None)
+
+        conn = get_db_connection()
+        if not conn:
+            return jsonify({"error": "Cannot connect to database"}), 500
+
+        cursor = conn.cursor()
+        sql = "INSERT INTO consultation_users (name, phone, email, major, message) VALUES (%s, %s, %s, %s, %s)"
+        val = (user_data["name"], user_data["phone"], user_data["email"], user_data["major"], message)
+        cursor.execute(sql, val)
+        conn.commit()
+
+        print(f"Inserted {cursor.rowcount} record(s). Database: {conn.database}")
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No records were inserted"}), 500
+
+        return jsonify({"message": "Thêm sinh viên thành công!"})
+    except Error as err:
+        print(f"Database error: {err}")
+        return jsonify({"error": f"Database error: {str(err)}"}), 500
+    except Exception as e:
+        print(f"Other error: {e}")
+        return jsonify({"error": f"Error: {str(e)}"}), 500
+    finally:
+        if cursor is not None:
+            try:
+                cursor.close()
+            except Error as e:
+                print(f"Error closing cursor: {e}")
+        if conn is not None:
+            try:
+                conn.close()
+            except Error as e:
+                print(f"Error closing connection: {e}")
+
+# Route để sửa sinh viên
+@app.route("/update-student", methods=["POST"])
+def update_student():
+    conn = None
+    cursor = None
+    try:
+        user_data = request.json
+        print("Data received for updating student:", user_data)
+
+        if not isinstance(user_data, dict):
+            return jsonify({"error": "Data must be a JSON object"}), 400
+
+        required_fields = ["id", "name", "phone", "email", "major"]
+        missing_fields = [field for field in required_fields if field not in user_data or not user_data[field]]
+        if missing_fields:
+            return jsonify({"error": f"Missing fields: {', '.join(missing_fields)}"}), 400
+
+        if len(user_data["name"]) > 100 or len(user_data["email"]) > 100 or len(user_data["major"]) > 100:
+            return jsonify({"error": "Name, email, or major exceeds 100 characters"}), 400
+        if len(user_data["phone"]) > 20:
+            return jsonify({"error": "Phone number exceeds 20 characters"}), 400
+
+        message = user_data.get("message", None)
+
+        conn = get_db_connection()
+        if not conn:
+            return jsonify({"error": "Cannot connect to database"}), 500
+
+        cursor = conn.cursor()
+        sql = "UPDATE consultation_users SET name = %s, phone = %s, email = %s, major = %s, message = %s WHERE id = %s"
+        val = (user_data["name"], user_data["phone"], user_data["email"], user_data["major"], message, user_data["id"])
+        cursor.execute(sql, val)
+        conn.commit()
+
+        print(f"Updated {cursor.rowcount} record(s). Database: {conn.database}")
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No records were updated"}), 500
+
+        return jsonify({"message": "Cập nhật sinh viên thành công!"})
+    except Error as err:
+        print(f"Database error: {err}")
+        return jsonify({"error": f"Database error: {str(err)}"}), 500
+    except Exception as e:
+        print(f"Other error: {e}")
+        return jsonify({"error": f"Error: {str(e)}"}), 500
+    finally:
+        if cursor is not None:
+            try:
+                cursor.close()
+            except Error as e:
+                print(f"Error closing cursor: {e}")
+        if conn is not None:
+            try:
+                conn.close()
+            except Error as e:
+                print(f"Error closing connection: {e}")
+
+# Route để xóa sinh viên
+@app.route("/delete-student", methods=["POST"])
+def delete_student():
+    conn = None
+    cursor = None
+    try:
+        user_data = request.json
+        print("Data received for deleting student:", user_data)
+
+        if not isinstance(user_data, dict) or "id" not in user_data:
+            return jsonify({"error": "Missing id field"}), 400
+
+        conn = get_db_connection()
+        if not conn:
+            return jsonify({"error": "Cannot connect to database"}), 500
+
+        cursor = conn.cursor()
+        sql = "DELETE FROM consultation_users WHERE id = %s"
+        val = (user_data["id"],)
+        cursor.execute(sql, val)
+        conn.commit()
+
+        print(f"Deleted {cursor.rowcount} record(s). Database: {conn.database}")
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No records were deleted"}), 500
+
+        return jsonify({"message": "Xóa sinh viên thành công!"})
+    except Error as err:
+        print(f"Database error: {err}")
+        return jsonify({"error": f"Database error: {str(err)}"}), 500
+    except Exception as e:
+        print(f"Other error: {e}")
+        return jsonify({"error": f"Error: {str(e)}"}), 500
+    finally:
+        if cursor is not None:
+            try:
+                cursor.close()
+            except Error as e:
+                print(f"Error closing cursor: {e}")
+        if conn is not None:
+            try:
+                conn.close()
+            except Error as e:
+                print(f"Error closing connection: {e}")
+
+if __name__ == "__main__":
+    app.run(debug=True, host='0.0.0.0', port=5000)

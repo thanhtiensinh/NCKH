@@ -1,0 +1,78 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "bạn là chatbot của HPU đúng không",
+        "answer": "Đúng! tôi là Chatbot của HPU. Bạn có cần hỗ trợ gì không?"
+    },
+    {
+        "question": "bạn là chatbot của HPU đúng không",
+        "answer": "Đúng vậy, tôi là chatbot của HPU. Tôi có thể giúp gì cho bạn?"
+    },
+    {
+        "question": "chào bạn",
+        "answer": "Đúng! tôi là Chatbot của HPU. Bạn có cần hỗ trợ gì không?"
+    },
+    {
+        "question": "tôi đang chào bạn mà",
+        "answer": "Đúng! tôi là Chatbot của HPU. Bạn có cần hỗ trợ gì không?"
+    },
+    {
+        "question": "chào bạn",
+        "answer": "Đúng! tôi là Chatbot của HPU. Bạn có cần hỗ trợ gì không?"
+    },
+    {
+        "question": "chào bạn",
+        "answer": "Chào bạn! Rất vui được trò chuyện với bạn. Bạn có câu hỏi nào về HPU không? Hoặc có điều gì tôi có thể giúp bạn không?"
+    },
+    {
+        "question": "trường có bao nhiêu khoa vậy",
+        "answer": "Trường Đại học Dân lập Hải Phòng (HPU) hiện có **11 khoa** đào tạo các chuyên ngành khác nhau. Đó là:\n\n1.  Khoa Công nghệ thông tin\n2.  Khoa Điện - Điện tử\n3.  Khoa Xây dựng\n4.  Khoa Cơ khí\n5.  Khoa Quản trị kinh doanh\n6.  Khoa Tài chính - Ngân hàng\n7.  Khoa Kế toán\n8.  Khoa Ngoại ngữ\n9.  Khoa Luật\n10. Khoa Du lịch\n11. Khoa Khoa học Cơ bản\n\nBạn quan tâm đến khoa nào nhất ạ?"
+    },
+    {
+        "question": "bạn lấy dữ liệu ở đâu ra vậy",
+        "answer": "Tôi được huấn luyện bởi Google và là một mô hình ngôn ngữ lớn. Thông tin tôi cung cấp được tổng hợp từ nhiều nguồn dữ liệu khác nhau, bao gồm cả thông tin công khai trên internet và kiến thức chung về trường Đại học Dân lập Hải Phòng (HPU). Tôi luôn cố gắng cung cấp thông tin chính xác và hữu ích nhất cho bạn."
+    },
+    {
+        "question": "chào bạn",
+        "answer": "Chào bạn! Tôi có thể giúp gì cho bạn về HPU không?"
+    },
+    {
+        "question": "trường có bao nhiêu khoa vậy",
+        "answer": "Hiện tại, Đại học Quản lý và Công nghệ Hải Phòng (HPU) có **7 khoa** đào tạo các chuyên ngành khác nhau:\n\n1.  **Khoa Công nghệ thông tin**\n2.  **Khoa Công nghệ kỹ thuật điện - Điện tử**\n3.  **Khoa Quản trị kinh doanh**\n4.  **Khoa Kỹ thuật môi trường**\n5.  **Khoa Việt Nam học**\n6.  **Khoa Ngôn ngữ Anh**\n7.  **Khoa Ngôn ngữ Trung**\n\nBạn quan tâm đến khoa nào không? Tôi có thể cung cấp thêm thông tin chi tiết về các khoa này."
+    },
+    {
+        "question": "khoa công nghệ thông tin có bao nhiêu chuyên ngành",
+        "answer": "Khoa Công nghệ thông tin của HPU hiện đang đào tạo **2 chuyên ngành chính**:\n\n*   **Công nghệ phần mềm**\n*   **Quản trị an ninh mạng**\n\nBạn muốn tìm hiểu thêm về chuyên ngành nào trong khoa CNTT không?"
+    },
+    {
+        "question": "khoa công nghệ thông tin có bao nhiêu chuyên ngành",
+        "answer": "Khoa Công nghệ Thông tin tại Đại học Quản lý và Công nghệ Hải Phòng (HPU) hiện có **2 chuyên ngành**:\n\n1.  **Công nghệ Phần mềm**\n2.  **Quản trị An ninh Mạng**\n\nBạn quan tâm đến chuyên ngành nào hơn ạ? Tôi có thể cung cấp thêm thông tin chi tiết."
+    },
+    {
+        "question": "khoa việt nam học thì sao",
+        "answer": "Khoa Việt Nam học tại HPU tập trung vào việc nghiên cứu và đào tạo về văn hóa, lịch sử, ngôn ngữ, và đất nước con người Việt Nam. Sinh viên theo học khoa này sẽ được trang bị kiến thức nền tảng và chuyên sâu về Việt Nam học, có khả năng làm việc trong các lĩnh vực như:\n\n*   **Du lịch:** Hướng dẫn viên du lịch, điều hành tour, quản lý khách sạn, nhà hàng.\n*   **Nghiên cứu:** Nghiên cứu viên tại các viện nghiên cứu, trung tâm văn hóa.\n*   **Giáo dục:** Giảng dạy tại các trường học, trung tâm ngoại ngữ.\n*   **Truyền thông:** Biên tập viên, phóng viên tại các báo, đài.\n*   **Văn phòng:** Thư ký, trợ lý đối ngoại tại các tổ chức, doanh nghiệp.\n\nBạn có muốn biết thêm thông tin cụ thể về chương trình đào tạo, cơ hội nghề nghiệp, hoặc các hoạt động ngoại khóa của khoa Việt Nam học không?"
+    },
+    {
+        "question": "ý là khoa Việt Nam học có bao nhiêu chuyên ngành",
+        "answer": "À, tôi hiểu rồi. Hiện tại, **khoa Việt Nam học của HPU có 2 chuyên ngành là Văn hóa du lịch và Quản trị du lịch..** Trong quá trình học, sinh viên sẽ được tiếp cận và trang bị kiến thức liên quan đến nhiều lĩnh vực khác nhau của Việt Nam như văn hóa, lịch sử, địa lý, du lịch, ngôn ngữ, v.v. Điều này giúp sinh viên có một nền tảng kiến thức rộng và đa dạng để có thể phát triển trong nhiều lĩnh vực khác nhau sau khi tốt nghiệp.\n\nBạn có muốn biết thêm thông tin gì về chuyên ngành Việt Nam học này không?"
+    },
+    {
+        "question": "khoa việt nam học có bao nhiêu chuyên ngành",
+        "answer": " 2 chuyên ngành chính: Văn hóa du lịch và Quản trị du lịch."
+    },
+    {
+        "question": "học phí của trường là bao nhiêu vậy",
+        "answer": "Học phí áp dụng cho năm học 2025-2026 là 618.000 đồng/1 tín chỉ"
+    },
+    {
+        "question": "chào nha",
+        "answer": "Chào bạn! Nếu bạn có bất kỳ câu hỏi nào khác về HPU trong tương lai, đừng ngần ngại hỏi nhé! Chúc bạn một ngày tốt lành!"
+    },
+    {
+        "question": "học phí của trường là bao nhiêu vậy",
+        "answer": "Tôi xin lỗi, tôi không có thông tin cụ thể về học phí hiện tại của trường cho từng ngành học. Tuy nhiên, để biết thông tin chính xác nhất, bạn nên:\n\n*   **Truy cập trang web chính thức của Đại học Quản lý và Công nghệ Hải Phòng (HPU):** Thông tin về học phí thường được công bố trên trang web của trường.\n*   **Liên hệ trực tiếp với phòng tuyển sinh của HPU:** Bạn có thể gọi điện hoặc gửi email đến phòng tuyển sinh để được tư vấn chi tiết về học phí.\n\nHy vọng bạn tìm được thông tin mình cần!"
+    }
+]
